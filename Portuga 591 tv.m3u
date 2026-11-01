@@ -1,0 +1,1399 @@
+#EXTM3U
+
+
+
+#EXTINF:-1 tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/portugal/rtp1.png" group-title="PT - GENERALISTAS", PT: RTP 1
+http://1sn.ns1.name:18800/mario8888/mario8889/70142
+
+#EXTINF:-1 tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/portugal/rtp1.png" group-title="PT - GENERALISTAS", PT: RTP 1 HD
+http://1sn.ns1.name:18800/mario8888/mario8889/2674
+
+#EXTINF:-1 tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/portugal/rtp1.png" group-title="PT - GENERALISTAS", PT: RTP 1 FHD
+http://1sn.ns1.name:18800/mario8888/mario8889/69761
+
+#EXTINF:-1 tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/portugal/rtp1.png" group-title="PT - GENERALISTAS", PT: RTP 1 HEVC
+http://1sn.ns1.name:18800/mario8888/mario8889/69644
+
+#EXTINF:-1 tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/portugal/rtp2.png" group-title="PT - GENERALISTAS", PT: RTP 2
+http://1sn.ns1.name:18800/mario8888/mario8889/2854
+
+#EXTINF:-1 tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/portugal/rtp2.png" group-title="PT - GENERALISTAS", PT: RTP 2 HD
+http://1sn.ns1.name:18800/mario8888/mario8889/21972
+
+#EXTINF:-1 tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/portugal/rtp2.png" group-title="PT - GENERALISTAS", PT: RTP 2 FHD
+http://1sn.ns1.name:18800/mario8888/mario8889/69762
+
+#EXTINF:-1 tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/portugal/rtp2.png" group-title="PT - GENERALISTAS", PT: RTP 2 HEVC
+http://1sn.ns1.name:18800/mario8888/mario8889/69645
+
+#EXTINF:-1 tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/portugal/sic.png" group-title="PT - GENERALISTAS", PT: SIC
+http://1sn.ns1.name:18800/mario8888/mario8889/2677
+
+#EXTINF:-1 tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/portugal/sic.png" group-title="PT - GENERALISTAS", PT: SIC HD
+http://1sn.ns1.name:18800/mario8888/mario8889/21973
+
+#EXTINF:-1 tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/portugal/sic.png" group-title="PT - GENERALISTAS", PT: SIC FHD
+http://1sn.ns1.name:18800/mario8888/mario8889/69763
+
+#EXTINF:-1 tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/portugal/sic.png" group-title="PT - GENERALISTAS", PT: SIC HEVC
+http://1sn.ns1.name:18800/mario8888/mario8889/69646
+
+#EXTINF:-1 tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/Portugal-Picons/portugal_logos_3x2/SICReplay.png" group-title="PT - GENERALISTAS", PT: Sic Replay FHD
+http://1sn.ns1.name:18800/mario8888/mario8889/311944
+
+#EXTINF:-1 tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/portugal/tvi-pt.png" group-title="PT - GENERALISTAS", PT: TVI
+http://1sn.ns1.name:18800/mario8888/mario8889/48654
+
+#EXTINF:-1 tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/portugal/tvi-pt.png" group-title="PT - GENERALISTAS", PT: TVI HD
+http://1sn.ns1.name:18800/mario8888/mario8889/2676
+
+#EXTINF:-1 tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/portugal/tvi-pt.png" group-title="PT - GENERALISTAS", PT: TVI FHD
+http://1sn.ns1.name:18800/mario8888/mario8889/69764
+
+#EXTINF:-1 tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/portugal/tvi-pt.png" group-title="PT - GENERALISTAS", PT: TVI HEVC
+http://1sn.ns1.name:18800/mario8888/mario8889/69647
+
+#EXTINF:-1 tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/portugal/porto-canal-pt.png" group-title="PT - GENERALISTAS", PT: Porto Canal
+http://1sn.ns1.name:18800/mario8888/mario8889/2871
+
+#EXTINF:-1 tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/portugal/porto-canal-pt.png" group-title="PT - GENERALISTAS", PT: Porto Canal HD
+http://1sn.ns1.name:18800/mario8888/mario8889/217408
+
+#EXTINF:-1 tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/portugal/porto-canal-pt.png" group-title="PT - GENERALISTAS", PT: Porto Canal FHD
+http://1sn.ns1.name:18800/mario8888/mario8889/70658
+
+#EXTINF:-1 tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/portugal/porto-canal-pt.png" group-title="PT - GENERALISTAS", PT: Porto Canal HEVC
+http://1sn.ns1.name:18800/mario8888/mario8889/70440
+
+#EXTINF:-1 tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/portugal/localvisao-tv-pt.png" group-title="PT - GENERALISTAS", PT: Localvisao Tv HD
+http://1sn.ns1.name:18800/mario8888/mario8889/70146
+
+#EXTINF:-1 tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/portugal/ptrtpafrica.png" group-title="PT - GENERALISTAS", PT: RTP Africa
+http://1sn.ns1.name:18800/mario8888/mario8889/4769
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="PT - GENERALISTAS", PT: TVI Internacional
+http://1sn.ns1.name:18800/mario8888/mario8889/253500
+
+#EXTINF:-1 tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/portugal/ptsicnoticias.png" group-title="PT - INFORMAÇÃO", PT: SIC Noticias
+http://1sn.ns1.name:18800/mario8888/mario8889/2860
+
+#EXTINF:-1 tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/portugal/ptsicnoticias.png" group-title="PT - INFORMAÇÃO", PT: SIC Noticias HD
+http://1sn.ns1.name:18800/mario8888/mario8889/217413
+
+#EXTINF:-1 tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/portugal/ptsicnoticias.png" group-title="PT - INFORMAÇÃO", PT: SIC Noticias FHD
+http://1sn.ns1.name:18800/mario8888/mario8889/70642
+
+#EXTINF:-1 tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/portugal/ptsicnoticias.png" group-title="PT - INFORMAÇÃO", PT: SIC Noticias HEVC
+http://1sn.ns1.name:18800/mario8888/mario8889/69650
+
+#EXTINF:-1 tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/portugal/rtpnoticias.png" group-title="PT - INFORMAÇÃO", PT: RTP Noticias
+http://1sn.ns1.name:18800/mario8888/mario8889/2675
+
+#EXTINF:-1 tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/portugal/rtpnoticias.png" group-title="PT - INFORMAÇÃO", PT: RTP Noticias HD
+http://1sn.ns1.name:18800/mario8888/mario8889/217409
+
+#EXTINF:-1 tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/portugal/rtpnoticias.png" group-title="PT - INFORMAÇÃO", PT: RTP Noticias FHD
+http://1sn.ns1.name:18800/mario8888/mario8889/70641
+
+#EXTINF:-1 tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/portugal/rtpnoticias.png" group-title="PT - INFORMAÇÃO", PT: RTP Noticias HEVC
+http://1sn.ns1.name:18800/mario8888/mario8889/69672
+
+#EXTINF:-1 tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/Portugal-Picons/portugal_logos_3x2/cnn-portugal-pt.png" group-title="PT - INFORMAÇÃO", PT: CNN Portugal
+http://1sn.ns1.name:18800/mario8888/mario8889/69649
+
+#EXTINF:-1 tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/Portugal-Picons/portugal_logos_3x2/cnn-portugal-pt.png" group-title="PT - INFORMAÇÃO", PT: CNN Portugal HD
+http://1sn.ns1.name:18800/mario8888/mario8889/2859
+
+#EXTINF:-1 tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/Portugal-Picons/portugal_logos_3x2/cnn-portugal-pt.png" group-title="PT - INFORMAÇÃO", PT: CNN Portugal FHD
+http://1sn.ns1.name:18800/mario8888/mario8889/70687
+
+#EXTINF:-1 tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/Portugal-Picons/portugal_logos_3x2/cnn-portugal-pt.png" group-title="PT - INFORMAÇÃO", PT: CNN Portugal HEVC
+http://1sn.ns1.name:18800/mario8888/mario8889/70481
+
+#EXTINF:-1 tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/Portugal-Picons/portugal_logos_3x2/cnn-portugal-pt.png" group-title="PT - INFORMAÇÃO", PT: CNN Brasil HD
+http://1sn.ns1.name:18800/mario8888/mario8889/276658
+
+#EXTINF:-1 tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/portugal/cmtv-pt.png" group-title="PT - INFORMAÇÃO", PT: CMTV
+http://1sn.ns1.name:18800/mario8888/mario8889/2862
+
+#EXTINF:-1 tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/portugal/cmtv-pt.png" group-title="PT - INFORMAÇÃO", PT: CMTV HD
+http://1sn.ns1.name:18800/mario8888/mario8889/217382
+
+#EXTINF:-1 tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/portugal/cmtv-pt.png" group-title="PT - INFORMAÇÃO", PT: CMTV FHD
+http://1sn.ns1.name:18800/mario8888/mario8889/70646
+
+#EXTINF:-1 tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/portugal/cmtv-pt.png" group-title="PT - INFORMAÇÃO", PT: CMTV HEVC
+http://1sn.ns1.name:18800/mario8888/mario8889/69673
+
+#EXTINF:-1 tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/portugal/newsnow.png" group-title="PT - INFORMAÇÃO", PT: News Now
+http://1sn.ns1.name:18800/mario8888/mario8889/222467
+
+#EXTINF:-1 tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/portugal/newsnow.png" group-title="PT - INFORMAÇÃO", PT: News Now HD
+http://1sn.ns1.name:18800/mario8888/mario8889/222674
+
+#EXTINF:-1 tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/portugal/newsnow.png" group-title="PT - INFORMAÇÃO", PT: News Now FHD
+http://1sn.ns1.name:18800/mario8888/mario8889/222466
+
+#EXTINF:-1 tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/portugal/rtpacores.png" group-title="PT - INFORMAÇÃO", PT: RTP Acores
+http://1sn.ns1.name:18800/mario8888/mario8889/4770
+
+#EXTINF:-1 tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/portugal/rtpmadeira.png" group-title="PT - INFORMAÇÃO", PT: RTP Madeira
+http://1sn.ns1.name:18800/mario8888/mario8889/2856
+
+#EXTINF:-1 tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/portugal/artv.png" group-title="PT - INFORMAÇÃO", PT: ARTV
+http://1sn.ns1.name:18800/mario8888/mario8889/5733
+
+#EXTINF:-1 tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/portugal/recordnews.png" group-title="PT - INFORMAÇÃO", PT: Record News
+http://1sn.ns1.name:18800/mario8888/mario8889/5028
+
+#EXTINF:-1 tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/portugal/pteuronews.png" group-title="PT - INFORMAÇÃO", PT: Euronews
+http://1sn.ns1.name:18800/mario8888/mario8889/48665
+
+#EXTINF:-1 tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/Scandinav-Ilhan/55/Bloomberg.png" group-title="PT - INFORMAÇÃO", PT: Bloomberg
+http://1sn.ns1.name:18800/mario8888/mario8889/5037
+
+#EXTINF:-1 tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/Scandinav-Ilhan/55/CNBC.png" group-title="PT - INFORMAÇÃO", PT: CNBC
+http://1sn.ns1.name:18800/mario8888/mario8889/47815
+
+#EXTINF:-1 tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/portugal/globonews.png" group-title="PT - INFORMAÇÃO", PT: Globo News
+http://1sn.ns1.name:18800/mario8888/mario8889/70679
+
+#EXTINF:-1 tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/portugal/sky-news-uk.png" group-title="PT - INFORMAÇÃO", PT: Sky News
+http://1sn.ns1.name:18800/mario8888/mario8889/253495
+
+#EXTINF:-1 tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/Portugal-Picons/portugal_logos_3x2/tvcine-action-pt.png" group-title="PT - FILMES/SÉRIES", PT: TvCine Action
+http://1sn.ns1.name:18800/mario8888/mario8889/2879
+
+#EXTINF:-1 tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/Portugal-Picons/portugal_logos_3x2/tvcine-action-pt.png" group-title="PT - FILMES/SÉRIES", PT: TvCine Action HD
+http://1sn.ns1.name:18800/mario8888/mario8889/9594
+
+#EXTINF:-1 tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/Portugal-Picons/portugal_logos_3x2/tvcine-action-pt.png" group-title="PT - FILMES/SÉRIES", PT: TvCine Action FHD
+http://1sn.ns1.name:18800/mario8888/mario8889/69777
+
+#EXTINF:-1 tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/Portugal-Picons/portugal_logos_3x2/tvcine-action-pt.png" group-title="PT - FILMES/SÉRIES", PT: TvCine Action HEVC
+http://1sn.ns1.name:18800/mario8888/mario8889/69643
+
+#EXTINF:-1 tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/Portugal-Picons/portugal_logos_3x2/tvcine-edition-pt.png" group-title="PT - FILMES/SÉRIES", PT: TvCine Edition
+http://1sn.ns1.name:18800/mario8888/mario8889/2877
+
+#EXTINF:-1 tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/Portugal-Picons/portugal_logos_3x2/tvcine-edition-pt.png" group-title="PT - FILMES/SÉRIES", PT: TvCine Edition HD
+http://1sn.ns1.name:18800/mario8888/mario8889/9592
+
+#EXTINF:-1 tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/Portugal-Picons/portugal_logos_3x2/tvcine-edition-pt.png" group-title="PT - FILMES/SÉRIES", PT: TvCine Edition FHD
+http://1sn.ns1.name:18800/mario8888/mario8889/69774
+
+#EXTINF:-1 tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/Portugal-Picons/portugal_logos_3x2/tvcine-edition-pt.png" group-title="PT - FILMES/SÉRIES", PT: TvCine Edition HEVC
+http://1sn.ns1.name:18800/mario8888/mario8889/69641
+
+#EXTINF:-1 tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/Portugal-Picons/portugal_logos_3x2/tvcine-emotion-pt.png" group-title="PT - FILMES/SÉRIES", PT: TvCine Emotion
+http://1sn.ns1.name:18800/mario8888/mario8889/2878
+
+#EXTINF:-1 tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/Portugal-Picons/portugal_logos_3x2/tvcine-emotion-pt.png" group-title="PT - FILMES/SÉRIES", PT: TvCine Emotion HD
+http://1sn.ns1.name:18800/mario8888/mario8889/9593
+
+#EXTINF:-1 tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/Portugal-Picons/portugal_logos_3x2/tvcine-emotion-pt.png" group-title="PT - FILMES/SÉRIES", PT: TvCine Emotion FHD
+http://1sn.ns1.name:18800/mario8888/mario8889/69776
+
+#EXTINF:-1 tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/Portugal-Picons/portugal_logos_3x2/tvcine-emotion-pt.png" group-title="PT - FILMES/SÉRIES", PT: TvCine Emotion HEVC
+http://1sn.ns1.name:18800/mario8888/mario8889/69642
+
+#EXTINF:-1 tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/Portugal-Picons/portugal_logos_3x2/tvcine-top-pt.png" group-title="PT - FILMES/SÉRIES", PT: TvCine Top
+http://1sn.ns1.name:18800/mario8888/mario8889/2876
+
+#EXTINF:-1 tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/Portugal-Picons/portugal_logos_3x2/tvcine-top-pt.png" group-title="PT - FILMES/SÉRIES", PT: TvCine Top HD
+http://1sn.ns1.name:18800/mario8888/mario8889/9591
+
+#EXTINF:-1 tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/Portugal-Picons/portugal_logos_3x2/tvcine-top-pt.png" group-title="PT - FILMES/SÉRIES", PT: TvCine Top FHD
+http://1sn.ns1.name:18800/mario8888/mario8889/69775
+
+#EXTINF:-1 tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/Portugal-Picons/portugal_logos_3x2/tvcine-top-pt.png" group-title="PT - FILMES/SÉRIES", PT: TvCine Top HEVC
+http://1sn.ns1.name:18800/mario8888/mario8889/69640
+
+#EXTINF:-1 tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/Portugal-Picons/portugal_logos_3x2/cine-mundo-pt.png" group-title="PT - FILMES/SÉRIES", PT: Cinemundo
+http://1sn.ns1.name:18800/mario8888/mario8889/5718
+
+#EXTINF:-1 tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/Portugal-Picons/portugal_logos_3x2/cine-mundo-pt.png" group-title="PT - FILMES/SÉRIES", PT: Cinemundo HD
+http://1sn.ns1.name:18800/mario8888/mario8889/217381
+
+#EXTINF:-1 tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/Portugal-Picons/portugal_logos_3x2/cine-mundo-pt.png" group-title="PT - FILMES/SÉRIES", PT: Cinemundo FHD
+http://1sn.ns1.name:18800/mario8888/mario8889/70665
+
+#EXTINF:-1 tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/Portugal-Picons/portugal_logos_3x2/cine-mundo-pt.png" group-title="PT - FILMES/SÉRIES", PT: Cinemundo HEVC
+http://1sn.ns1.name:18800/mario8888/mario8889/69627
+
+#EXTINF:-1 tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/Portugal-Picons/portugal_logos_3x2/canal-hollywood-pt.png" group-title="PT - FILMES/SÉRIES", PT: Hollywood
+http://1sn.ns1.name:18800/mario8888/mario8889/4806
+
+#EXTINF:-1 tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/Portugal-Picons/portugal_logos_3x2/canal-hollywood-pt.png" group-title="PT - FILMES/SÉRIES", PT: Hollywood HD
+http://1sn.ns1.name:18800/mario8888/mario8889/21967
+
+#EXTINF:-1 tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/Portugal-Picons/portugal_logos_3x2/canal-hollywood-pt.png" group-title="PT - FILMES/SÉRIES", PT: Hollywood FHD
+http://1sn.ns1.name:18800/mario8888/mario8889/69784
+
+#EXTINF:-1 tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/Portugal-Picons/portugal_logos_3x2/canal-hollywood-pt.png" group-title="PT - FILMES/SÉRIES", PT: Hollywood HEVC
+http://1sn.ns1.name:18800/mario8888/mario8889/69639
+
+#EXTINF:-1 tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/Portugal-Picons/portugal_logos_3x2/ptstarmovies.png" group-title="PT - FILMES/SÉRIES", PT: Star Movies HD
+http://1sn.ns1.name:18800/mario8888/mario8889/21964
+
+#EXTINF:-1 tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/Portugal-Picons/portugal_logos_3x2/ptstarmovies.png" group-title="PT - FILMES/SÉRIES", PT: Star Movies FHD
+http://1sn.ns1.name:18800/mario8888/mario8889/70662
+
+#EXTINF:-1 tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/Portugal-Picons/portugal_logos_3x2/ptstarmovies.png" group-title="PT - FILMES/SÉRIES", PT: Star Movies HEVC
+http://1sn.ns1.name:18800/mario8888/mario8889/69635
+
+#EXTINF:-1 tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/Portugal-Picons/portugal_logos_3x2/ptstarchannelhd.png" group-title="PT - FILMES/SÉRIES", PT: Star Channel
+http://1sn.ns1.name:18800/mario8888/mario8889/70701
+
+#EXTINF:-1 tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/Portugal-Picons/portugal_logos_3x2/ptstarchannelhd.png" group-title="PT - FILMES/SÉRIES", PT: Star Channel HD
+http://1sn.ns1.name:18800/mario8888/mario8889/5716
+
+#EXTINF:-1 tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/Portugal-Picons/portugal_logos_3x2/ptstarchannelhd.png" group-title="PT - FILMES/SÉRIES", PT: Star Channel FHD
+http://1sn.ns1.name:18800/mario8888/mario8889/69781
+
+#EXTINF:-1 tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/Portugal-Picons/portugal_logos_3x2/ptstarchannelhd.png" group-title="PT - FILMES/SÉRIES", PT: Star Channel HEVC
+http://1sn.ns1.name:18800/mario8888/mario8889/69634
+
+#EXTINF:-1 tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/Portugal-Picons/portugal_logos_3x2/ptstarcomedy.png" group-title="PT - FILMES/SÉRIES", PT: Star Comedy HD
+http://1sn.ns1.name:18800/mario8888/mario8889/21963
+
+#EXTINF:-1 tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/Portugal-Picons/portugal_logos_3x2/ptstarcomedy.png" group-title="PT - FILMES/SÉRIES", PT: Star Comedy FHD
+http://1sn.ns1.name:18800/mario8888/mario8889/70663
+
+#EXTINF:-1 tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/Portugal-Picons/portugal_logos_3x2/ptstarcomedy.png" group-title="PT - FILMES/SÉRIES", PT: Star Comedy HEVC
+http://1sn.ns1.name:18800/mario8888/mario8889/69625
+
+#EXTINF:-1 tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/Portugal-Picons/portugal_logos_3x2/ptstarcrimehd.png" group-title="PT - FILMES/SÉRIES", PT: Star Crime
+http://1sn.ns1.name:18800/mario8888/mario8889/47840
+
+#EXTINF:-1 tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/Portugal-Picons/portugal_logos_3x2/ptstarcrimehd.png" group-title="PT - FILMES/SÉRIES", PT: Star Crime HD
+http://1sn.ns1.name:18800/mario8888/mario8889/5717
+
+#EXTINF:-1 tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/Portugal-Picons/portugal_logos_3x2/ptstarcrimehd.png" group-title="PT - FILMES/SÉRIES", PT: Star Crime FHD
+http://1sn.ns1.name:18800/mario8888/mario8889/69782
+
+#EXTINF:-1 tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/Portugal-Picons/portugal_logos_3x2/ptstarcrimehd.png" group-title="PT - FILMES/SÉRIES", PT: Star Crime HEVC
+http://1sn.ns1.name:18800/mario8888/mario8889/69624
+
+#EXTINF:-1 tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/Portugal-Picons/portugal_logos_3x2/ptstarlifehd.png" group-title="PT - FILMES/SÉRIES", PT: Star Life
+http://1sn.ns1.name:18800/mario8888/mario8889/47841
+
+#EXTINF:-1 tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/Portugal-Picons/portugal_logos_3x2/ptstarlifehd.png" group-title="PT - FILMES/SÉRIES", PT: Star Life HD
+http://1sn.ns1.name:18800/mario8888/mario8889/5715
+
+#EXTINF:-1 tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/Portugal-Picons/portugal_logos_3x2/ptstarlifehd.png" group-title="PT - FILMES/SÉRIES", PT: Star Life FHD
+http://1sn.ns1.name:18800/mario8888/mario8889/69783
+
+#EXTINF:-1 tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/Portugal-Picons/portugal_logos_3x2/ptstarlifehd.png" group-title="PT - FILMES/SÉRIES", PT: Star Life HEVC
+http://1sn.ns1.name:18800/mario8888/mario8889/69626
+
+#EXTINF:-1 tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/Portugal-Picons/portugal_logos_3x2/axn-movies-pt.png" group-title="PT - FILMES/SÉRIES", PT: AXN Movies
+http://1sn.ns1.name:18800/mario8888/mario8889/70700
+
+#EXTINF:-1 tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/Portugal-Picons/portugal_logos_3x2/axn-movies-pt.png" group-title="PT - FILMES/SÉRIES", PT: AXN Movies HD
+http://1sn.ns1.name:18800/mario8888/mario8889/4809
+
+#EXTINF:-1 tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/Portugal-Picons/portugal_logos_3x2/axn-movies-pt.png" group-title="PT - FILMES/SÉRIES", PT: AXN Movies FHD
+http://1sn.ns1.name:18800/mario8888/mario8889/69780
+
+#EXTINF:-1 tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/Portugal-Picons/portugal_logos_3x2/axn-movies-pt.png" group-title="PT - FILMES/SÉRIES", PT: AXN Movies HEVC
+http://1sn.ns1.name:18800/mario8888/mario8889/69633
+
+#EXTINF:-1 tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/Portugal-Picons/portugal_logos_3x2/axn-pt.png" group-title="PT - FILMES/SÉRIES", PT: AXN
+http://1sn.ns1.name:18800/mario8888/mario8889/70699
+
+#EXTINF:-1 tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/Portugal-Picons/portugal_logos_3x2/axn-pt.png" group-title="PT - FILMES/SÉRIES", PT: AXN HD
+http://1sn.ns1.name:18800/mario8888/mario8889/5720
+
+#EXTINF:-1 tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/Portugal-Picons/portugal_logos_3x2/axn-pt.png" group-title="PT - FILMES/SÉRIES", PT: AXN FHD
+http://1sn.ns1.name:18800/mario8888/mario8889/69778
+
+#EXTINF:-1 tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/Portugal-Picons/portugal_logos_3x2/axn-pt.png" group-title="PT - FILMES/SÉRIES", PT: AXN HEVC
+http://1sn.ns1.name:18800/mario8888/mario8889/69636
+
+#EXTINF:-1 tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/Portugal-Picons/portugal_logos_3x2/axn-white-pt.png" group-title="PT - FILMES/SÉRIES", PT: AXN White
+http://1sn.ns1.name:18800/mario8888/mario8889/47838
+
+#EXTINF:-1 tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/Portugal-Picons/portugal_logos_3x2/axn-white-pt.png" group-title="PT - FILMES/SÉRIES", PT: AXN White HD
+http://1sn.ns1.name:18800/mario8888/mario8889/5719
+
+#EXTINF:-1 tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/Portugal-Picons/portugal_logos_3x2/axn-white-pt.png" group-title="PT - FILMES/SÉRIES", PT: AXN White FHD
+http://1sn.ns1.name:18800/mario8888/mario8889/69779
+
+#EXTINF:-1 tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/Portugal-Picons/portugal_logos_3x2/axn-white-pt.png" group-title="PT - FILMES/SÉRIES", PT: AXN White HEVC
+http://1sn.ns1.name:18800/mario8888/mario8889/69637
+
+#EXTINF:-1 tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/Portugal-Picons/portugal_logos_3x2/amc-pt.png" group-title="PT - FILMES/SÉRIES", PT: AMC
+http://1sn.ns1.name:18800/mario8888/mario8889/2881
+
+#EXTINF:-1 tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/Portugal-Picons/portugal_logos_3x2/amc-pt.png" group-title="PT - FILMES/SÉRIES", PT: AMC HD
+http://1sn.ns1.name:18800/mario8888/mario8889/21954
+
+#EXTINF:-1 tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/Portugal-Picons/portugal_logos_3x2/amc-pt.png" group-title="PT - FILMES/SÉRIES", PT: AMC FHD
+http://1sn.ns1.name:18800/mario8888/mario8889/69785
+
+#EXTINF:-1 tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/Portugal-Picons/portugal_logos_3x2/amc-pt.png" group-title="PT - FILMES/SÉRIES", PT: AMC HEVC
+http://1sn.ns1.name:18800/mario8888/mario8889/69629
+
+#EXTINF:-1 tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/Portugal-Picons/portugal_logos_3x2/syfy-uk.png" group-title="PT - FILMES/SÉRIES", PT: SyFy
+http://1sn.ns1.name:18800/mario8888/mario8889/21981
+
+#EXTINF:-1 tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/Portugal-Picons/portugal_logos_3x2/syfy-uk.png" group-title="PT - FILMES/SÉRIES", PT: SyFy HD
+http://1sn.ns1.name:18800/mario8888/mario8889/21982
+
+#EXTINF:-1 tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/Portugal-Picons/portugal_logos_3x2/syfy-uk.png" group-title="PT - FILMES/SÉRIES", PT: SyFy FHD
+http://1sn.ns1.name:18800/mario8888/mario8889/70660
+
+#EXTINF:-1 tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/Portugal-Picons/portugal_logos_3x2/syfy-uk.png" group-title="PT - FILMES/SÉRIES", PT: SyFy HEVC
+http://1sn.ns1.name:18800/mario8888/mario8889/69628
+
+#EXTINF:-1 tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/Portugal-Picons/portugal_logos_3x2/nosstudios.png" group-title="PT - FILMES/SÉRIES", PT: NOS Studios
+http://1sn.ns1.name:18800/mario8888/mario8889/70680
+
+#EXTINF:-1 tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/Portugal-Picons/portugal_logos_3x2/nosstudios.png" group-title="PT - FILMES/SÉRIES", PT: NOS Studios HD
+http://1sn.ns1.name:18800/mario8888/mario8889/47813
+
+#EXTINF:-1 tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/Portugal-Picons/portugal_logos_3x2/nosstudios.png" group-title="PT - FILMES/SÉRIES", PT: NOS Studios FHD
+http://1sn.ns1.name:18800/mario8888/mario8889/69765
+
+#EXTINF:-1 tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/Portugal-Picons/portugal_logos_3x2/nosstudios.png" group-title="PT - FILMES/SÉRIES", PT: Nos Studios HEVC
+http://1sn.ns1.name:18800/mario8888/mario8889/69638
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Marvel_Studios_2016_logo.svg/330px-Marvel_Studios_2016_logo.svg.png" group-title="PT - FILMES/SÉRIES", PT: Disney Marvel HD (New)
+http://1sn.ns1.name:18800/mario8888/mario8889/217127
+
+#EXTINF:-1 tvg-logo="https://cineverso.es/wp-content/uploads/2019/02/star-wars-disney-plus.jpg" group-title="PT - FILMES/SÉRIES", PT: Disney Star Wars HD (New)
+http://1sn.ns1.name:18800/mario8888/mario8889/217135
+
+#EXTINF:-1 tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/Portugal-Picons/portugal_logos_3x2/btv-pt.png" group-title="PT - DESPORTO", PT: BTV 4K HEVC
+http://1sn.ns1.name:18800/mario8888/mario8889/69623
+
+#EXTINF:-1 tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/Portugal-Picons/portugal_logos_3x2/ptdazn1hd.png" group-title="PT - DESPORTO", PT: Dazn 1 2K/4K
+http://1sn.ns1.name:18800/mario8888/mario8889/69676
+
+#EXTINF:-1 tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/Portugal-Picons/portugal_logos_3x2/sport-tv-1-pt.png" group-title="PT - DESPORTO", PT: Sport Tv 1 4K HEVC
+http://1sn.ns1.name:18800/mario8888/mario8889/69631
+
+#EXTINF:-1 tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/Portugal-Picons/portugal_logos_3x2/sport-tv-1-pt.png" group-title="PT - DESPORTO", PT: Sport Tv 1
+http://1sn.ns1.name:18800/mario8888/mario8889/211
+
+#EXTINF:-1 tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/Portugal-Picons/portugal_logos_3x2/sport-tv-1-pt.png" group-title="PT - DESPORTO", PT: Sport Tv 1 HD
+http://1sn.ns1.name:18800/mario8888/mario8889/21975
+
+#EXTINF:-1 tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/Portugal-Picons/portugal_logos_3x2/sport-tv-1-pt.png" group-title="PT - DESPORTO", PT: Sport Tv 1 FHD
+http://1sn.ns1.name:18800/mario8888/mario8889/69786
+
+#EXTINF:-1 tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/Portugal-Picons/portugal_logos_3x2/sport-tv-1-pt.png" group-title="PT - DESPORTO", PT: Sport Tv 1 HEVC
+http://1sn.ns1.name:18800/mario8888/mario8889/69661
+
+#EXTINF:-1 tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/Portugal-Picons/portugal_logos_3x2/sport-tv-1-pt.png" group-title="PT - DESPORTO", PT: Sport Tv 1 HD Extra
+http://1sn.ns1.name:18800/mario8888/mario8889/240519
+
+#EXTINF:-1 tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/Portugal-Picons/portugal_logos_3x2/sport-tv-1-pt.png" group-title="PT - DESPORTO", PT: Sport Tv 1 FHD Extra
+http://1sn.ns1.name:18800/mario8888/mario8889/240520
+
+#EXTINF:-1 tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/Portugal-Picons/portugal_logos_3x2/sport-tv-2-pt.png" group-title="PT - DESPORTO", PT: Sport Tv 2
+http://1sn.ns1.name:18800/mario8888/mario8889/212
+
+#EXTINF:-1 tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/Portugal-Picons/portugal_logos_3x2/sport-tv-2-pt.png" group-title="PT - DESPORTO", PT: Sport Tv 2 HD
+http://1sn.ns1.name:18800/mario8888/mario8889/70702
+
+#EXTINF:-1 tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/Portugal-Picons/portugal_logos_3x2/sport-tv-2-pt.png" group-title="PT - DESPORTO", PT: Sport Tv 2 FHD
+http://1sn.ns1.name:18800/mario8888/mario8889/5020
+
+#EXTINF:-1 tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/Portugal-Picons/portugal_logos_3x2/sport-tv-2-pt.png" group-title="PT - DESPORTO", PT: Sport Tv 2 HEVC
+http://1sn.ns1.name:18800/mario8888/mario8889/69663
+
+#EXTINF:-1 tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/Portugal-Picons/portugal_logos_3x2/sport-tv-2-pt.png" group-title="PT - DESPORTO", PT: Sport Tv 2 HD Extra
+http://1sn.ns1.name:18800/mario8888/mario8889/254355
+
+#EXTINF:-1 tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/Portugal-Picons/portugal_logos_3x2/sport-tv-2-pt.png" group-title="PT - DESPORTO", PT: Sport Tv 2 FHD Extra
+http://1sn.ns1.name:18800/mario8888/mario8889/254354
+
+#EXTINF:-1 tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/Portugal-Picons/portugal_logos_3x2/sport-tv-3-pt.png" group-title="PT - DESPORTO", PT: Sport Tv 3
+http://1sn.ns1.name:18800/mario8888/mario8889/5021
+
+#EXTINF:-1 tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/Portugal-Picons/portugal_logos_3x2/sport-tv-3-pt.png" group-title="PT - DESPORTO", PT: Sport Tv 3 HD
+http://1sn.ns1.name:18800/mario8888/mario8889/2864
+
+#EXTINF:-1 tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/Portugal-Picons/portugal_logos_3x2/sport-tv-3-pt.png" group-title="PT - DESPORTO", PT: Sport Tv 3 FHD
+http://1sn.ns1.name:18800/mario8888/mario8889/69788
+
+#EXTINF:-1 tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/Portugal-Picons/portugal_logos_3x2/sport-tv-3-pt.png" group-title="PT - DESPORTO", PT: Sport Tv 3 HEVC
+http://1sn.ns1.name:18800/mario8888/mario8889/69666
+
+#EXTINF:-1 tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/Portugal-Picons/portugal_logos_3x2/sport-tv-4-pt.png" group-title="PT - DESPORTO", PT: Sport Tv 4
+http://1sn.ns1.name:18800/mario8888/mario8889/21978
+
+#EXTINF:-1 tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/Portugal-Picons/portugal_logos_3x2/sport-tv-4-pt.png" group-title="PT - DESPORTO", PT: Sport Tv 4 HD
+http://1sn.ns1.name:18800/mario8888/mario8889/2865
+
+#EXTINF:-1 tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/Portugal-Picons/portugal_logos_3x2/sport-tv-4-pt.png" group-title="PT - DESPORTO", PT: Sport Tv 4 FHD
+http://1sn.ns1.name:18800/mario8888/mario8889/70651
+
+#EXTINF:-1 tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/Portugal-Picons/portugal_logos_3x2/sport-tv-4-pt.png" group-title="PT - DESPORTO", PT: Sport Tv 4 HEVC
+http://1sn.ns1.name:18800/mario8888/mario8889/69667
+
+#EXTINF:-1 tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/Portugal-Picons/portugal_logos_3x2/sport-tv-5-pt.png" group-title="PT - DESPORTO", PT: Sport Tv 5
+http://1sn.ns1.name:18800/mario8888/mario8889/21980
+
+#EXTINF:-1 tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/Portugal-Picons/portugal_logos_3x2/sport-tv-5-pt.png" group-title="PT - DESPORTO", PT: Sport Tv 5 HD
+http://1sn.ns1.name:18800/mario8888/mario8889/2867
+
+#EXTINF:-1 tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/Portugal-Picons/portugal_logos_3x2/sport-tv-5-pt.png" group-title="PT - DESPORTO", PT: Sport Tv 5 FHD
+http://1sn.ns1.name:18800/mario8888/mario8889/214
+
+#EXTINF:-1 tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/Portugal-Picons/portugal_logos_3x2/sport-tv-5-pt.png" group-title="PT - DESPORTO", PT: Sport Tv 5 HEVC
+http://1sn.ns1.name:18800/mario8888/mario8889/69668
+
+#EXTINF:-1 tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/Portugal-Picons/portugal_logos_3x2/sport-tv-5-pt.png" group-title="PT - DESPORTO", PT: Sport Tv 5 HD Extra
+http://1sn.ns1.name:18800/mario8888/mario8889/242123
+
+#EXTINF:-1 tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/Portugal-Picons/portugal_logos_3x2/sport-tv-5-pt.png" group-title="PT - DESPORTO", PT: Sport Tv 5 FHD Extra
+http://1sn.ns1.name:18800/mario8888/mario8889/242122
+
+#EXTINF:-1 tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/Portugal-Picons/portugal_logos_3x2/sporttv6.png" group-title="PT - DESPORTO", PT: Sport Tv 6
+http://1sn.ns1.name:18800/mario8888/mario8889/75886
+
+#EXTINF:-1 tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/Portugal-Picons/portugal_logos_3x2/sporttv6.png" group-title="PT - DESPORTO", PT: Sport Tv 6 HD
+http://1sn.ns1.name:18800/mario8888/mario8889/75885
+
+#EXTINF:-1 tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/Portugal-Picons/portugal_logos_3x2/sporttv6.png" group-title="PT - DESPORTO", PT: Sport Tv 6 FHD
+http://1sn.ns1.name:18800/mario8888/mario8889/73096
+
+#EXTINF:-1 tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/Portugal-Picons/portugal_logos_3x2/sporttv6.png" group-title="PT - DESPORTO", PT: Sport Tv 6 HEVC
+http://1sn.ns1.name:18800/mario8888/mario8889/75887
+
+#EXTINF:-1 tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/Portugal-Picons/portugal_logos_3x2/ptsporttv7.png" group-title="PT - DESPORTO", PT: Sport Tv 7 FHD
+http://1sn.ns1.name:18800/mario8888/mario8889/227547
+
+#EXTINF:-1 tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/Portugal-Picons/portugal_logos_3x2/ptsporttv7.png" group-title="PT - DESPORTO", PT: Sport Tv 7 HD
+http://1sn.ns1.name:18800/mario8888/mario8889/227546
+
+#EXTINF:-1 tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/Portugal-Picons/portugal_logos_3x2/ptsporttv7.png" group-title="PT - DESPORTO", PT: Sport Tv 7 SD
+http://1sn.ns1.name:18800/mario8888/mario8889/227545
+
+#EXTINF:-1 tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/Portugal-Picons/portugal_logos_3x2/ptdazn1hd.png" group-title="PT - DESPORTO", PT: Dazn 1
+http://1sn.ns1.name:18800/mario8888/mario8889/70703
+
+#EXTINF:-1 tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/Portugal-Picons/portugal_logos_3x2/ptdazn1hd.png" group-title="PT - DESPORTO", PT: Dazn 1 HD
+http://1sn.ns1.name:18800/mario8888/mario8889/21956
+
+#EXTINF:-1 tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/Portugal-Picons/portugal_logos_3x2/ptdazn1hd.png" group-title="PT - DESPORTO", PT: Dazn 1 FHD
+http://1sn.ns1.name:18800/mario8888/mario8889/69789
+
+#EXTINF:-1 tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/Portugal-Picons/portugal_logos_3x2/ptdazn1hd.png" group-title="PT - DESPORTO", PT: Dazn 1 HEVC
+http://1sn.ns1.name:18800/mario8888/mario8889/69617
+
+#EXTINF:-1 tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/Portugal-Picons/portugal_logos_3x2/ptdazn2.png" group-title="PT - DESPORTO", PT: Dazn 2
+http://1sn.ns1.name:18800/mario8888/mario8889/70704
+
+#EXTINF:-1 tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/Portugal-Picons/portugal_logos_3x2/ptdazn2.png" group-title="PT - DESPORTO", PT: Dazn 2 HD
+http://1sn.ns1.name:18800/mario8888/mario8889/21957
+
+#EXTINF:-1 tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/Portugal-Picons/portugal_logos_3x2/ptdazn2.png" group-title="PT - DESPORTO", PT: Dazn 2 FHD
+http://1sn.ns1.name:18800/mario8888/mario8889/69790
+
+#EXTINF:-1 tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/Portugal-Picons/portugal_logos_3x2/ptdazn2.png" group-title="PT - DESPORTO", PT: Dazn 2 HEVC
+http://1sn.ns1.name:18800/mario8888/mario8889/69618
+
+#EXTINF:-1 tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/Portugal-Picons/portugal_logos_3x2/ptdazn3.png" group-title="PT - DESPORTO", PT: Dazn 3
+http://1sn.ns1.name:18800/mario8888/mario8889/21958
+
+#EXTINF:-1 tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/Portugal-Picons/portugal_logos_3x2/ptdazn3.png" group-title="PT - DESPORTO", PT: Dazn 3 HD
+http://1sn.ns1.name:18800/mario8888/mario8889/70675
+
+#EXTINF:-1 tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/Portugal-Picons/portugal_logos_3x2/ptdazn3.png" group-title="PT - DESPORTO", PT: Dazn 3 FHD
+http://1sn.ns1.name:18800/mario8888/mario8889/70653
+
+#EXTINF:-1 tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/Portugal-Picons/portugal_logos_3x2/ptdazn3.png" group-title="PT - DESPORTO", PT: Dazn 3 HEVC
+http://1sn.ns1.name:18800/mario8888/mario8889/69619
+
+#EXTINF:-1 tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/Portugal-Picons/portugal_logos_3x2/ptdazn4.png" group-title="PT - DESPORTO", PT: Dazn 4
+http://1sn.ns1.name:18800/mario8888/mario8889/21959
+
+#EXTINF:-1 tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/Portugal-Picons/portugal_logos_3x2/ptdazn4.png" group-title="PT - DESPORTO", PT: Dazn 4 HD
+http://1sn.ns1.name:18800/mario8888/mario8889/70676
+
+#EXTINF:-1 tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/Portugal-Picons/portugal_logos_3x2/ptdazn4.png" group-title="PT - DESPORTO", PT: Dazn 4 FHD
+http://1sn.ns1.name:18800/mario8888/mario8889/70654
+
+#EXTINF:-1 tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/Portugal-Picons/portugal_logos_3x2/ptdazn4.png" group-title="PT - DESPORTO", PT: Dazn 4 HEVC
+http://1sn.ns1.name:18800/mario8888/mario8889/70448
+
+#EXTINF:-1 tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/Portugal-Picons/portugal_logos_3x2/ptdazn5.png" group-title="PT - DESPORTO", PT: Dazn 5
+http://1sn.ns1.name:18800/mario8888/mario8889/21960
+
+#EXTINF:-1 tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/Portugal-Picons/portugal_logos_3x2/ptdazn5.png" group-title="PT - DESPORTO", PT: Dazn 5 HD
+http://1sn.ns1.name:18800/mario8888/mario8889/70677
+
+#EXTINF:-1 tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/Portugal-Picons/portugal_logos_3x2/ptdazn5.png" group-title="PT - DESPORTO", PT: Dazn 5 FHD
+http://1sn.ns1.name:18800/mario8888/mario8889/70655
+
+#EXTINF:-1 tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/Portugal-Picons/portugal_logos_3x2/ptdazn5.png" group-title="PT - DESPORTO", PT: Dazn 5 HEVC
+http://1sn.ns1.name:18800/mario8888/mario8889/70449
+
+#EXTINF:-1 tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/Portugal-Picons/portugal_logos_3x2/btv-pt.png" group-title="PT - DESPORTO", PT: BTV
+http://1sn.ns1.name:18800/mario8888/mario8889/2868
+
+#EXTINF:-1 tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/Portugal-Picons/portugal_logos_3x2/btv-pt.png" group-title="PT - DESPORTO", PT: BTV HD
+http://1sn.ns1.name:18800/mario8888/mario8889/2670
+
+#EXTINF:-1 tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/Portugal-Picons/portugal_logos_3x2/btv-pt.png" group-title="PT - DESPORTO", PT: BTV FHD
+http://1sn.ns1.name:18800/mario8888/mario8889/69791
+
+#EXTINF:-1 tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/Portugal-Picons/portugal_logos_3x2/btv-pt.png" group-title="PT - DESPORTO", PT: BTV HEVC
+http://1sn.ns1.name:18800/mario8888/mario8889/69616
+
+#EXTINF:-1 tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/Portugal-Picons/portugal_logos_3x2/btv-pt.png" group-title="PT - DESPORTO", PT: BTV HD Extra
+http://1sn.ns1.name:18800/mario8888/mario8889/242379
+
+#EXTINF:-1 tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/Portugal-Picons/portugal_logos_3x2/btv-pt.png" group-title="PT - DESPORTO", PT: BTV FHD Extra
+http://1sn.ns1.name:18800/mario8888/mario8889/242380
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="PT - DESPORTO", PT: W Sport FHD
+http://1sn.ns1.name:18800/mario8888/mario8889/239651
+
+#EXTINF:-1 tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/Portugal-Picons/portugal_logos_3x2/pfc-pt.png" group-title="PT - DESPORTO", PT: PFC/Sport Tv 1 B
+http://1sn.ns1.name:18800/mario8888/mario8889/21971
+
+#EXTINF:-1 tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/Portugal-Picons/portugal_logos_3x2/pfc-pt.png" group-title="PT - DESPORTO", PT: PFC HEVC
+http://1sn.ns1.name:18800/mario8888/mario8889/70452
+
+#EXTINF:-1 tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/Portugal-Picons/portugal_logos_3x2/canal11-pt.png" group-title="PT - DESPORTO", PT: Canal 11
+http://1sn.ns1.name:18800/mario8888/mario8889/85840
+
+#EXTINF:-1 tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/Portugal-Picons/portugal_logos_3x2/canal11-pt.png" group-title="PT - DESPORTO", PT: Canal 11 HD
+http://1sn.ns1.name:18800/mario8888/mario8889/48661
+
+#EXTINF:-1 tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/Portugal-Picons/portugal_logos_3x2/canal11-pt.png" group-title="PT - DESPORTO", PT: Canal 11 FHD
+http://1sn.ns1.name:18800/mario8888/mario8889/69792
+
+#EXTINF:-1 tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/Portugal-Picons/portugal_logos_3x2/canal11-pt.png" group-title="PT - DESPORTO", PT: Canal 11 HEVC
+http://1sn.ns1.name:18800/mario8888/mario8889/69671
+
+#EXTINF:-1 tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/Portugal-Picons/portugal_logos_3x2/a-bola-tv-pt.png" group-title="PT - DESPORTO", PT: A Bola Tv
+http://1sn.ns1.name:18800/mario8888/mario8889/5722
+
+#EXTINF:-1 tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/Portugal-Picons/portugal_logos_3x2/a-bola-tv-pt.png" group-title="PT - DESPORTO", PT: A Bola Tv HD
+http://1sn.ns1.name:18800/mario8888/mario8889/217376
+
+#EXTINF:-1 tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/Portugal-Picons/portugal_logos_3x2/a-bola-tv-pt.png" group-title="PT - DESPORTO", PT: A Bola Tv FHD
+http://1sn.ns1.name:18800/mario8888/mario8889/70688
+
+#EXTINF:-1 tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/Portugal-Picons/portugal_logos_3x2/a-bola-tv-pt.png" group-title="PT - DESPORTO", PT: A Bola Tv HEVC
+http://1sn.ns1.name:18800/mario8888/mario8889/69651
+
+#EXTINF:-1 tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/Portugal-Picons/portugal_logos_3x2/sport-tv-mais-pt.png" group-title="PT - DESPORTO", PT: Sport Tv+
+http://1sn.ns1.name:18800/mario8888/mario8889/9596
+
+#EXTINF:-1 tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/Portugal-Picons/portugal_logos_3x2/sport-tv-mais-pt.png" group-title="PT - DESPORTO", PT: Sport Tv+ HD
+http://1sn.ns1.name:18800/mario8888/mario8889/21979
+
+#EXTINF:-1 tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/Portugal-Picons/portugal_logos_3x2/sport-tv-mais-pt.png" group-title="PT - DESPORTO", PT: Sport Tv+ FHD
+http://1sn.ns1.name:18800/mario8888/mario8889/47842
+
+#EXTINF:-1 tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/Portugal-Picons/portugal_logos_3x2/sport-tv-mais-pt.png" group-title="PT - DESPORTO", PT: Sport Tv+ HEVC
+http://1sn.ns1.name:18800/mario8888/mario8889/69660
+
+#EXTINF:-1 tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/Portugal-Picons/portugal_logos_3x2/sporting-tv-pt.png" group-title="PT - DESPORTO", PT: Sporting Tv
+http://1sn.ns1.name:18800/mario8888/mario8889/2672
+
+#EXTINF:-1 tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/Portugal-Picons/portugal_logos_3x2/sporting-tv-pt.png" group-title="PT - DESPORTO", PT: Sporting Tv HD
+http://1sn.ns1.name:18800/mario8888/mario8889/21974
+
+#EXTINF:-1 tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/Portugal-Picons/portugal_logos_3x2/sporting-tv-pt.png" group-title="PT - DESPORTO", PT: Sporting Tv FHD
+http://1sn.ns1.name:18800/mario8888/mario8889/70650
+
+#EXTINF:-1 tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/Portugal-Picons/portugal_logos_3x2/sporting-tv-pt.png" group-title="PT - DESPORTO", PT: Sporting Tv HEVC
+http://1sn.ns1.name:18800/mario8888/mario8889/69621
+
+#EXTINF:-1 tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/Portugal-Picons/portugal_logos_3x2/eurosport-1-de.png" group-title="PT - DESPORTO", PT: Eurosport 1
+http://1sn.ns1.name:18800/mario8888/mario8889/4791
+
+#EXTINF:-1 tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/Portugal-Picons/portugal_logos_3x2/eurosport-1-de.png" group-title="PT - DESPORTO", PT: Eurosport 1 HD
+http://1sn.ns1.name:18800/mario8888/mario8889/217387
+
+#EXTINF:-1 tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/Portugal-Picons/portugal_logos_3x2/eurosport-1-de.png" group-title="PT - DESPORTO", PT: Eurosport 1 FHD
+http://1sn.ns1.name:18800/mario8888/mario8889/69794
+
+#EXTINF:-1 tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/Portugal-Picons/portugal_logos_3x2/eurosport-1-de.png" group-title="PT - DESPORTO", PT: Eurosport 1 HEVC
+http://1sn.ns1.name:18800/mario8888/mario8889/69622
+
+#EXTINF:-1 tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/Portugal-Picons/portugal_logos_3x2/eurosport-2-nl.png" group-title="PT - DESPORTO", PT: Eurosport 2
+http://1sn.ns1.name:18800/mario8888/mario8889/4792
+
+#EXTINF:-1 tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/Portugal-Picons/portugal_logos_3x2/eurosport-2-nl.png" group-title="PT - DESPORTO", PT: Eurosport 2 HD
+http://1sn.ns1.name:18800/mario8888/mario8889/217388
+
+#EXTINF:-1 tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/Portugal-Picons/portugal_logos_3x2/eurosport-2-nl.png" group-title="PT - DESPORTO", PT: Eurosport 2 FHD
+http://1sn.ns1.name:18800/mario8888/mario8889/70692
+
+#EXTINF:-1 tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/Portugal-Picons/portugal_logos_3x2/fight-network-pt.png" group-title="PT - DESPORTO", PT: Fight Network FHD
+http://1sn.ns1.name:18800/mario8888/mario8889/70671
+
+#EXTINF:-1 tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/Portugal-Picons/portugal_logos_3x2/fight-box-pt.png" group-title="PT - DESPORTO", PT: Fight Box FHD
+http://1sn.ns1.name:18800/mario8888/mario8889/86094
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="PT - DESPORTO", PT: Kombat Sport
+http://1sn.ns1.name:18800/mario8888/mario8889/253488
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sport_tv_pt_1.png" group-title="PT - DESPORTO", PT: Sport Tv 1 FHD(clone)
+http://1sn.ns1.name:18800/mario8888/mario8889/247678
+
+#EXTINF:-1 tvg-logo="http://u.meulogin.net:80/images/c55eb1e6351537096484b2e389360380.png" group-title="PT - FILMES/SÉRIES 24 HORAS", PT: 24Horas Novela Novo Mundo
+http://1sn.ns1.name:18800/mario8888/mario8889/76245
+
+#EXTINF:-1 tvg-logo="http://u.meulogin.net:80/images/8faf69fa62c4492415f91ce2f5546827.jpg" group-title="PT - FILMES/SÉRIES 24 HORAS", PT: 24Horas Novela Jesus
+http://1sn.ns1.name:18800/mario8888/mario8889/76242
+
+#EXTINF:-1 tvg-logo="http://u.meulogin.net:80/images/c6ec9a1183e298a94cb80589def36bf6.jpg" group-title="PT - FILMES/SÉRIES 24 HORAS", PT: 24Horas Novela José do Egito
+http://1sn.ns1.name:18800/mario8888/mario8889/76239
+
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/proxy/nvywOMTxhOz495O6wcfCZDDYdgNotmRLhYE_WmRYA2dIr1Csr1oCF4dIvXU6behGlvAl7wq8eJKTZWUlWyRmD5zLjo5jAybAOs_x8dEcsq2MKFmsybLmulGKfGj97gbEoA" group-title="PT - FILMES/SÉRIES 24 HORAS", PT: 24Horas Novela Flor do Caribe
+http://1sn.ns1.name:18800/mario8888/mario8889/76238
+
+#EXTINF:-1 tvg-logo="http://u.meulogin.net:80/images/795bec845d2289cdf4ab6c256ed6d22d.png" group-title="PT - FILMES/SÉRIES 24 HORAS", PT: 24Horas Novela Fina Estampa
+http://1sn.ns1.name:18800/mario8888/mario8889/76237
+
+#EXTINF:-1 tvg-logo="http://u.meulogin.net:80/images/585bb4b643884937a83c85c0d1a86601.png" group-title="PT - FILMES/SÉRIES 24 HORAS", PT: 24Horas Êta Mundo Bom!
+http://1sn.ns1.name:18800/mario8888/mario8889/76236
+
+#EXTINF:-1 tvg-logo="http://u.meulogin.net:80/images/154cce36d8c6122d82fa141dbb1f76ce.jpg" group-title="PT - FILMES/SÉRIES 24 HORAS", PT: 24Horas Novela Amor de Mãe
+http://1sn.ns1.name:18800/mario8888/mario8889/76233
+
+#EXTINF:-1 tvg-logo="http://u.meulogin.net:80/images/39b4fb4846c99c1d41a4e015da0b60bc.jpg" group-title="PT - FILMES/SÉRIES 24 HORAS", PT: 24Horas Os Simpson (Antigo)
+http://1sn.ns1.name:18800/mario8888/mario8889/76230
+
+#EXTINF:-1 tvg-logo="http://u.meulogin.net:80/images/90357c3a23cd04ea0751d23317592100.jpg" group-title="PT - FILMES/SÉRIES 24 HORAS", PT: 24Horas InuYasha
+http://1sn.ns1.name:18800/mario8888/mario8889/76229
+
+#EXTINF:-1 tvg-logo="http://u.meulogin.net:80/images/96d6db2af5650c4e5c92b53d56f113e2.jpg" group-title="PT - FILMES/SÉRIES 24 HORAS", PT: 24Horas Jiraiya
+http://1sn.ns1.name:18800/mario8888/mario8889/76228
+
+#EXTINF:-1 tvg-logo="http://u.meulogin.net:80/images/3780c198b4a35cfdef136fbdc7cbea4b.jpg" group-title="PT - FILMES/SÉRIES 24 HORAS", PT: 24Horas Escolinha do professor Raimundo
+http://1sn.ns1.name:18800/mario8888/mario8889/76227
+
+#EXTINF:-1 tvg-logo="http://u.meulogin.net:80/images/ac4225c615abe3e39db4aa72401f8063.jpg" group-title="PT - FILMES/SÉRIES 24 HORAS", PT: 24Horas Os Jetsons
+http://1sn.ns1.name:18800/mario8888/mario8889/76226
+
+#EXTINF:-1 tvg-logo="http://u.meulogin.net:80/images/18c911cab159ab317f8df12e43d26635.jpg" group-title="PT - FILMES/SÉRIES 24 HORAS", PT: 24Horas Os Cavaleiros do Zodiaco - Saint Seiya
+http://1sn.ns1.name:18800/mario8888/mario8889/76223
+
+#EXTINF:-1 tvg-logo="http://u.meulogin.net:80/images/e3326875d2ce6b949dc524b19c30a2cd.jpg" group-title="PT - FILMES/SÉRIES 24 HORAS", PT: 24Horas Tio Patinhas
+http://1sn.ns1.name:18800/mario8888/mario8889/76222
+
+#EXTINF:-1 tvg-logo="http://u.meulogin.net:80/images/e39396a14a787f7b118d6ff1cbefd472.jpg" group-title="PT - FILMES/SÉRIES 24 HORAS", PT: 24Horas Globo Repórter
+http://1sn.ns1.name:18800/mario8888/mario8889/76221
+
+#EXTINF:-1 tvg-logo="http://u.meulogin.net:80/images/b76cdd7d784d59d606a6c20da1ce2359.png" group-title="PT - FILMES/SÉRIES 24 HORAS", PT: 24Horas Cine GO #2 (Lançamentos HBO)
+http://1sn.ns1.name:18800/mario8888/mario8889/76218
+
+#EXTINF:-1 tvg-logo="http://u.meulogin.net:80/images/b76cdd7d784d59d606a6c20da1ce2359.png" group-title="PT - FILMES/SÉRIES 24 HORAS", PT: 24Horas Cine GO #1 (Lançamentos HBO)
+http://1sn.ns1.name:18800/mario8888/mario8889/76217
+
+#EXTINF:-1 tvg-logo="http://u.meulogin.net:80/images/e855eb2baf0212f2e9bf9efc593c67b4.png" group-title="PT - FILMES/SÉRIES 24 HORAS", PT: 24Horas Cine Pipoca #4 (Lançamentos TeleCine)
+http://1sn.ns1.name:18800/mario8888/mario8889/76215
+
+#EXTINF:-1 tvg-logo="http://u.meulogin.net:80/images/e855eb2baf0212f2e9bf9efc593c67b4.png" group-title="PT - FILMES/SÉRIES 24 HORAS", PT: 24Horas Cine Pipoca #3 (Lançamentos TeleCine)
+http://1sn.ns1.name:18800/mario8888/mario8889/76214
+
+#EXTINF:-1 tvg-logo="http://u.meulogin.net:80/images/1bdce85c258d8eab4cc90adf0de51b30.jpg" group-title="PT - FILMES/SÉRIES 24 HORAS", PT: 24Horas Novela Amor à Vida
+http://1sn.ns1.name:18800/mario8888/mario8889/76207
+
+#EXTINF:-1 tvg-logo="http://u.meulogin.net:80/images/d4cb8cbe74de25b672408274ca5864d6.jpg" group-title="PT - FILMES/SÉRIES 24 HORAS", PT: 24Horas Novela Avenida Brasil
+http://1sn.ns1.name:18800/mario8888/mario8889/76206
+
+#EXTINF:-1 tvg-logo="http://u.meulogin.net:80/images/46341907364972055cc52f0f79fce03d.jpg" group-title="PT - FILMES/SÉRIES 24 HORAS", PT: 24Horas Os Flintstones
+http://1sn.ns1.name:18800/mario8888/mario8889/76205
+
+#EXTINF:-1 tvg-logo="http://u.meulogin.net:80/images/c7947e55c3a88f659c18e7a2cb0037ef.png" group-title="PT - FILMES/SÉRIES 24 HORAS", PT: 24Horas Cine Terror
+http://1sn.ns1.name:18800/mario8888/mario8889/76203
+
+#EXTINF:-1 tvg-logo="http://u.meulogin.net:80/images/a43683d33b40f413228d54e3c6ed4a2f.jpg" group-title="PT - FILMES/SÉRIES 24 HORAS", PT: 24Horas Você Sabia? YouTube
+http://1sn.ns1.name:18800/mario8888/mario8889/76202
+
+#EXTINF:-1 tvg-logo="http://u.meulogin.net:80/images/7c822be53abc0a4c98d5d7d1f00fec86.jpg" group-title="PT - FILMES/SÉRIES 24 HORAS", PT: 24Horas Primitive Technology Canal YouTube
+http://1sn.ns1.name:18800/mario8888/mario8889/76201
+
+#EXTINF:-1 tvg-logo="http://u.meulogin.net:80/images/c7947e55c3a88f659c18e7a2cb0037ef.png" group-title="PT - FILMES/SÉRIES 24 HORAS", PT: 24Horas Cine Marvel
+http://1sn.ns1.name:18800/mario8888/mario8889/76200
+
+#EXTINF:-1 tvg-logo="http://u.meulogin.net:80/images/c7947e55c3a88f659c18e7a2cb0037ef.png" group-title="PT - FILMES/SÉRIES 24 HORAS", PT: 24Horas Cine Comédia
+http://1sn.ns1.name:18800/mario8888/mario8889/76198
+
+#EXTINF:-1 tvg-logo="http://u.meulogin.net:80/images/b7851ab28c82ad3c2f801a8022bbf1be.jpg" group-title="PT - FILMES/SÉRIES 24 HORAS", PT: 24Horas Parafernalha YouTube
+http://1sn.ns1.name:18800/mario8888/mario8889/76197
+
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/t1DH-v5JrbFcj_47zo5XvtUb1cd0imcwDLXANN2dRgjjZjWXh2d-fUchS2njCJu7e2u5xrLceQ=w640-fcrop64=1,32b75a57cd48a5a8-k-c0xffffffff-no-nd-rj" group-title="PT - FILMES/SÉRIES 24 HORAS", PT: 24Horas CanalCanalha YouTube
+http://1sn.ns1.name:18800/mario8888/mario8889/76196
+
+#EXTINF:-1 tvg-logo="http://u.meulogin.net:80/images/fa13bcb2ac7ef825242b3d89397f7b98.jpg" group-title="PT - FILMES/SÉRIES 24 HORAS", PT: 24Horas Homens da Montanha/Gelo
+http://1sn.ns1.name:18800/mario8888/mario8889/76195
+
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a/AATXAJxnNh91CVNV5Ogru8QN06MP8HWEfXoqW9kCF0Tl=s100-c-k-c0xffffffff-no-rj-mo" group-title="PT - FILMES/SÉRIES 24 HORAS", PT: 24Horas Pegadinhas da RedeTV YouTube
+http://1sn.ns1.name:18800/mario8888/mario8889/76193
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQfoFCwoxnqbVlkecxv6fmp4Gt58JZ8adjn_GWAtPiUm7L4gG-8" group-title="PT - FILMES/SÉRIES 24 HORAS", PT: 24Horas The Noite Canal YouTube
+http://1sn.ns1.name:18800/mario8888/mario8889/76190
+
+#EXTINF:-1 tvg-logo="http://u.meulogin.net:80/images/fa13bcb2ac7ef825242b3d89397f7b98.jpg" group-title="PT - FILMES/SÉRIES 24 HORAS", PT: 24Horas Tô de Graça
+http://1sn.ns1.name:18800/mario8888/mario8889/76189
+
+#EXTINF:-1 tvg-logo="http://u.meulogin.net:80/images/d106103aea09cba9f67dea3d105cec90.png" group-title="PT - FILMES/SÉRIES 24 HORAS", PT: 24Horas Pagode da Ofensa Canal YouTube
+http://1sn.ns1.name:18800/mario8888/mario8889/76188
+
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/E9c66FXG9Pkl3VTBS_yXRHakNrkbI7RxUPy9yIUGmPPqd6cVfLSKrMXpppnleGXu_n6TTwHv=w640-fcrop64=1,32b75a57cd48a5a8-k-c0xffffffff-no-nd-rj" group-title="PT - FILMES/SÉRIES 24 HORAS", PT: 24Horas Edu Primitivo Canal YouTube
+http://1sn.ns1.name:18800/mario8888/mario8889/76187
+
+#EXTINF:-1 tvg-logo="http://u.meulogin.net:80/images/5ae0c1c8a5260bc7b6648f6fbd115c35.jpg" group-title="PT - FILMES/SÉRIES 24 HORAS", PT: 24Horas Porta dos Fundos Canal YouTube
+http://1sn.ns1.name:18800/mario8888/mario8889/76186
+
+#EXTINF:-1 tvg-logo="http://u.meulogin.net:80/images/46212439fc244afcb8cfb6d6262557b4.png" group-title="PT - FILMES/SÉRIES 24 HORAS", PT: 24Horas Badin Canal YouTube
+http://1sn.ns1.name:18800/mario8888/mario8889/76185
+
+#EXTINF:-1 tvg-logo="http://u.meulogin.net:80/images/13d0cc6cbfba481ba5b678563a25fec4.jpg" group-title="PT - FILMES/SÉRIES 24 HORAS", PT: 24Horas 4 Amigos Canal YouTube
+http://1sn.ns1.name:18800/mario8888/mario8889/76183
+
+#EXTINF:-1 tvg-logo="http://u.meulogin.net:80/images/fa187dfd67a6f62a26a4f68f0efe84e6.jpg" group-title="PT - FILMES/SÉRIES 24 HORAS", PT: 24Horas Dragon Ball Kai
+http://1sn.ns1.name:18800/mario8888/mario8889/76182
+
+#EXTINF:-1 tvg-logo="http://u.meulogin.net:80/images/2a926aeaddc4ee83b70f2c1a4e8b3936.jpg" group-title="PT - FILMES/SÉRIES 24 HORAS", PT: 24Horas TV Pirata
+http://1sn.ns1.name:18800/mario8888/mario8889/76181
+
+#EXTINF:-1 tvg-logo="https://resultadosdigitais.com.br/agencias/files/2019/01/o-socio.jpg" group-title="PT - FILMES/SÉRIES 24 HORAS", PT: 24Horas O Sócio
+http://1sn.ns1.name:18800/mario8888/mario8889/76177
+
+#EXTINF:-1 tvg-logo="http://u.meulogin.net:80/images/325c99e1a58103453392aea429df5cd2.jpg" group-title="PT - FILMES/SÉRIES 24 HORAS", PT: 24Horas Sítio do Picapau Amarelo
+http://1sn.ns1.name:18800/mario8888/mario8889/76175
+
+#EXTINF:-1 tvg-logo="http://u.meulogin.net:80/images/65bfcef588bc2037bf4cbc685e7138c0.jpg" group-title="PT - FILMES/SÉRIES 24 HORAS", PT: 24Horas Vai Que Cola
+http://1sn.ns1.name:18800/mario8888/mario8889/76174
+
+#EXTINF:-1 tvg-logo="http://u.meulogin.net:80/images/2727aa8c7d552e5709df46042a026d04.jpg" group-title="PT - FILMES/SÉRIES 24 HORAS", PT: 24Horas Batman e Robin
+http://1sn.ns1.name:18800/mario8888/mario8889/76172
+
+#EXTINF:-1 tvg-logo="http://u.meulogin.net:80/images/3c81dc7af050335bd5dfd0479fcb4610.jpg" group-title="PT - FILMES/SÉRIES 24 HORAS", PT: 24Horas Pesadelo na Cozinha
+http://1sn.ns1.name:18800/mario8888/mario8889/76171
+
+#EXTINF:-1 tvg-logo="http://u.meulogin.net:80/images/b65acc819d2fd63ae6144a072c3083df.jpg" group-title="PT - FILMES/SÉRIES 24 HORAS", PT: 24Horas Mr. Bean
+http://1sn.ns1.name:18800/mario8888/mario8889/76170
+
+#EXTINF:-1 tvg-logo="http://u.meulogin.net:80/images/16989779635e214a99f805e84815ab0b.jpg" group-title="PT - FILMES/SÉRIES 24 HORAS", PT: 24Horas MasterChef Brasil
+http://1sn.ns1.name:18800/mario8888/mario8889/76169
+
+#EXTINF:-1 tvg-logo="http://u.meulogin.net:80/images/afbd925f70c3a8c4946de9bad52870e7.jpg" group-title="PT - FILMES/SÉRIES 24 HORAS", PT: 24Horas MacGyver
+http://1sn.ns1.name:18800/mario8888/mario8889/76168
+
+#EXTINF:-1 tvg-logo="http://u.meulogin.net:80/images/3328e9068ed38957117a54bb53806939.jpg" group-title="PT - FILMES/SÉRIES 24 HORAS", PT: 24Horas Largados e Pelados
+http://1sn.ns1.name:18800/mario8888/mario8889/76167
+
+#EXTINF:-1 tvg-logo="https://images.justwatch.com/poster/132075259/s592" group-title="PT - FILMES/SÉRIES 24 HORAS", PT: 24Horas Dois Homens e Meio
+http://1sn.ns1.name:18800/mario8888/mario8889/76166
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRaqBLB3cjQx-854LvQNe7qPFTw7t6MGWfCTMBgtn1BOjmKCgMk" group-title="PT - FILMES/SÉRIES 24 HORAS", PT: 24Horas Timão e Pumba
+http://1sn.ns1.name:18800/mario8888/mario8889/76165
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRM3W_dXn1mnFFSXib5-DgEH244S-8A6XJ9IJ7d1fr48cWZYP5x" group-title="PT - FILMES/SÉRIES 24 HORAS", PT: 24Horas O Show da Luna
+http://1sn.ns1.name:18800/mario8888/mario8889/76163
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRS4yQG1NkMVW5PCdOteJiPpL51RmI4RPH50g&usqp=CAU" group-title="PT - FILMES/SÉRIES 24 HORAS", PT: 24Horas Mickey Mouse
+http://1sn.ns1.name:18800/mario8888/mario8889/76160
+
+#EXTINF:-1 tvg-logo="https://images.livrariasaraiva.com.br/imagemnet/imagem.aspx/?pro_id=9745412&qld=90&l=830&a=-1=1007943217" group-title="PT - FILMES/SÉRIES 24 HORAS", PT: 24Horas Hora de Aventura
+http://1sn.ns1.name:18800/mario8888/mario8889/76159
+
+#EXTINF:-1 tvg-logo="https://lojasaraiva.vteximg.com.br/arquivos/ids/222546/1004444042.jpg?v=636968229968770000" group-title="PT - FILMES/SÉRIES 24 HORAS", PT: 24Horas Pica-Pau
+http://1sn.ns1.name:18800/mario8888/mario8889/76158
+
+#EXTINF:-1 tvg-logo="http://u.meulogin.net:80/images/f59ff8eb07cea21fb0ea5cedd620253d.jpg" group-title="PT - FILMES/SÉRIES 24 HORAS", PT: 24Horas Baby Looney Tunes
+http://1sn.ns1.name:18800/mario8888/mario8889/76157
+
+#EXTINF:-1 tvg-logo="http://u.meulogin.net:80/images/f584b6d872011b13464f03d05b9e93de.jpg" group-title="PT - FILMES/SÉRIES 24 HORAS", PT: 24Horas Doug
+http://1sn.ns1.name:18800/mario8888/mario8889/76155
+
+#EXTINF:-1 tvg-logo="http://u.meulogin.net:80/images/51745cc26ab5331a0016e8630452465e.png" group-title="PT - FILMES/SÉRIES 24 HORAS", PT: 24Horas Digimon
+http://1sn.ns1.name:18800/mario8888/mario8889/76154
+
+#EXTINF:-1 tvg-logo="http://u.meulogin.net:80/images/10ed7e17998e8d5e629cfa8eaeac1c8d.png" group-title="PT - FILMES/SÉRIES 24 HORAS", PT: 24Horas Bob Zoom
+http://1sn.ns1.name:18800/mario8888/mario8889/76152
+
+#EXTINF:-1 tvg-logo="https://assetsgn.nowonline.com.br/assets/p186113_b_v7_bb.jpg?api_key=snfwq54bnzvgucd7cqvgt86r" group-title="PT - FILMES/SÉRIES 24 HORAS", PT: 24Horas Dora a Aventureira
+http://1sn.ns1.name:18800/mario8888/mario8889/76151
+
+#EXTINF:-1 tvg-logo="http://u.meulogin.net:80/images/64b371a284d7996478882c2981b567e5.jpg" group-title="PT - FILMES/SÉRIES 24 HORAS", PT: 24Horas Irmãos à Obra
+http://1sn.ns1.name:18800/mario8888/mario8889/76150
+
+#EXTINF:-1 tvg-logo="http://u.meulogin.net:80/images/86833e9d8762c45693d53cc58bdfa597.jpg" group-title="PT - FILMES/SÉRIES 24 HORAS", PT: 24Horas Capitão Planeta
+http://1sn.ns1.name:18800/mario8888/mario8889/76148
+
+#EXTINF:-1 tvg-logo="http://u.meulogin.net:80/images/c08b5f2bc7ba9498e4397349e632b730.jpg" group-title="PT - FILMES/SÉRIES 24 HORAS", PT: 24Horas Os Trapalhões
+http://1sn.ns1.name:18800/mario8888/mario8889/76143
+
+#EXTINF:-1 tvg-logo="https://cdn.mensagenscomamor.com/content/images/p000005342.jpg?v=0&w=400&h=225&c=1" group-title="PT - FILMES/SÉRIES 24 HORAS", PT: 24Horas Popeye
+http://1sn.ns1.name:18800/mario8888/mario8889/76141
+
+#EXTINF:-1 tvg-logo="http://u.meulogin.net:80/images/49334620c32aad141800e21b2a60d97e.jpg" group-title="PT - FILMES/SÉRIES 24 HORAS", PT: 24Horas Tom e Jerry
+http://1sn.ns1.name:18800/mario8888/mario8889/76140
+
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/en.futurama/images/6/67/Futurama-01_0.jpg/revision/latest?cb=20141012181430" group-title="PT - FILMES/SÉRIES 24 HORAS", PT: 24Horas Futurama
+http://1sn.ns1.name:18800/mario8888/mario8889/76135
+
+#EXTINF:-1 tvg-logo="http://u.meulogin.net:80/images/a43683d33b40f413228d54e3c6ed4a2f.jpg" group-title="PT - FILMES/SÉRIES 24 HORAS", PT: 24Horas Homem-Aranha
+http://1sn.ns1.name:18800/mario8888/mario8889/76134
+
+#EXTINF:-1 tvg-logo="http://u.meulogin.net:80/images/13da52648f58e5cdef58d42ba0a4f572.jpg" group-title="PT - FILMES/SÉRIES 24 HORAS", PT: 24Horas Scooby-Doo
+http://1sn.ns1.name:18800/mario8888/mario8889/76133
+
+#EXTINF:-1 tvg-logo="http://u.meulogin.net:80/images/28cf8cbe7712a8e69cbd6d8c84cb0d8e.jpg" group-title="PT - FILMES/SÉRIES 24 HORAS", PT: 24Horas Rick and Morty
+http://1sn.ns1.name:18800/mario8888/mario8889/76131
+
+#EXTINF:-1 tvg-logo="http://u.meulogin.net:80/images/2a01e207a6692d56a019154e30570fed.jpg" group-title="PT - FILMES/SÉRIES 24 HORAS", PT: 24Horas Naruto
+http://1sn.ns1.name:18800/mario8888/mario8889/76130
+
+#EXTINF:-1 tvg-logo="http://u.meulogin.net:80/images/6681cb466bfe4641d2ff7b2a54eac10d.jpg" group-title="PT - FILMES/SÉRIES 24 HORAS", PT: 24Horas Os Simpsons
+http://1sn.ns1.name:18800/mario8888/mario8889/76128
+
+#EXTINF:-1 tvg-logo="http://u.meulogin.net:80/images/eaafe4b692a3514e60767ade9a0f0dd5.jpg" group-title="PT - FILMES/SÉRIES 24 HORAS", PT: 24Horas Os Padrinhos Mágicos
+http://1sn.ns1.name:18800/mario8888/mario8889/76127
+
+#EXTINF:-1 tvg-logo="http://u.meulogin.net:80/images/20140b1a1b9a8083c86050168871435f.jpg" group-title="PT - FILMES/SÉRIES 24 HORAS", PT: 24Horas Kenan e Kel
+http://1sn.ns1.name:18800/mario8888/mario8889/76124
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSqn_rzB44ZxE7ahbcXlaXqIvmaWszq8UoXEkNqwJ-k7LqoiVdR" group-title="PT - FILMES/SÉRIES 24 HORAS", PT: 24Horas Castelo Rá-Tim-Bum
+http://1sn.ns1.name:18800/mario8888/mario8889/76123
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTQLbUPZaBPcwzxCSsHrvltGUQq4OFhrN76wlotThhMpbQqleWI" group-title="PT - FILMES/SÉRIES 24 HORAS", PT: 24Horas A Pantera Cor-de-Rosa
+http://1sn.ns1.name:18800/mario8888/mario8889/76122
+
+#EXTINF:-1 tvg-logo="http://u.meulogin.net:80/images/a43683d33b40f413228d54e3c6ed4a2f.jpg" group-title="PT - FILMES/SÉRIES 24 HORAS", PT: 24Horas  o Cão Covarde
+http://1sn.ns1.name:18800/mario8888/mario8889/76121
+
+#EXTINF:-1 tvg-logo="http://u.meulogin.net:80/images/474e4554554bf24f159425bce4e9129e.jpg" group-title="PT - FILMES/SÉRIES 24 HORAS", PT: 24Horas Turma da Mônica
+http://1sn.ns1.name:18800/mario8888/mario8889/76119
+
+#EXTINF:-1 tvg-logo="http://u.meulogin.net:80/images/b0d578a2481ef450e331d4d3999cec26.jpg" group-title="PT - FILMES/SÉRIES 24 HORAS", PT: 24Horas Caverna do Dragão
+http://1sn.ns1.name:18800/mario8888/mario8889/76118
+
+#EXTINF:-1 tvg-logo="http://u.meulogin.net:80/images/b50a78e3ba543cf87a86ab0d3b4e7fbf.jpg" group-title="PT - FILMES/SÉRIES 24 HORAS", PT: 24Horas Peppa Pig
+http://1sn.ns1.name:18800/mario8888/mario8889/76115
+
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/dublagem/images/6/67/Dragon-ball-gt.jpg/revision/latest?cb=20200613013335&path-prefix=pt-br" group-title="PT - FILMES/SÉRIES 24 HORAS", PT: 24 Dragon Ball GT
+http://1sn.ns1.name:18800/mario8888/mario8889/76113
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ72QbL0t5hzHTxN-vKJTEFhwWgwSngJ-Hyg2MahDlymXi5MSIE" group-title="PT - FILMES/SÉRIES 24 HORAS", PT: 24Horas Chapolin
+http://1sn.ns1.name:18800/mario8888/mario8889/76112
+
+#EXTINF:-1 tvg-logo="http://t.meulogin.net:80/images/f3c5ad2836ad89a9d3375052ebd76b06.jpg" group-title="PT - FILMES/SÉRIES 24 HORAS", PT: 24Horas Um Maluco no Pedaço
+http://1sn.ns1.name:18800/mario8888/mario8889/76108
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQqqwDQOdWTLqyjXQuD5jltYu2nqFuSqsziBzZ1KTaIevD_lBVh" group-title="PT - FILMES/SÉRIES 24 HORAS", PT: 24Horas Chaves
+http://1sn.ns1.name:18800/mario8888/mario8889/76107
+
+#EXTINF:-1 tvg-logo="http://u.meulogin.net:80/images/307add0acb908d5fd02dfa400430bc17.jpg" group-title="PT - FILMES/SÉRIES 24 HORAS", PT: 24Horas Todo Mundo Odeia o Chris
+http://1sn.ns1.name:18800/mario8888/mario8889/76106
+
+#EXTINF:-1 tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/Portugal-Picons/portugal_logos_3x2/food-network-pl.png" group-title="PT - ENTRETENIMENTO", BR: Food Network SD
+http://1sn.ns1.name:18800/mario8888/mario8889/61418
+
+#EXTINF:-1 tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/Portugal-Picons/portugal_logos_3x2/sic-mulher-pt.png" group-title="PT - ENTRETENIMENTO", PT: SIC Mulher
+http://1sn.ns1.name:18800/mario8888/mario8889/2861
+
+#EXTINF:-1 tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/Portugal-Picons/portugal_logos_3x2/sic-mulher-pt.png" group-title="PT - ENTRETENIMENTO", PT: SIC Mulher HD
+http://1sn.ns1.name:18800/mario8888/mario8889/217412
+
+#EXTINF:-1 tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/Portugal-Picons/portugal_logos_3x2/sic-mulher-pt.png" group-title="PT - ENTRETENIMENTO", PT: SIC Mulher FHD
+http://1sn.ns1.name:18800/mario8888/mario8889/70645
+
+#EXTINF:-1 tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/Portugal-Picons/portugal_logos_3x2/sic-mulher-pt.png" group-title="PT - ENTRETENIMENTO", PT: SIC Mulher HEVC
+http://1sn.ns1.name:18800/mario8888/mario8889/69654
+
+#EXTINF:-1 tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/Portugal-Picons/portugal_logos_3x2/sic-caras-pt.png" group-title="PT - ENTRETENIMENTO", PT: SIC Caras
+http://1sn.ns1.name:18800/mario8888/mario8889/4771
+
+#EXTINF:-1 tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/Portugal-Picons/portugal_logos_3x2/sic-caras-pt.png" group-title="PT - ENTRETENIMENTO", PT: SIC Caras FHD
+http://1sn.ns1.name:18800/mario8888/mario8889/70643
+
+#EXTINF:-1 tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/Portugal-Picons/portugal_logos_3x2/sic-caras-pt.png" group-title="PT - ENTRETENIMENTO", PT: SIC Caras HEVC
+http://1sn.ns1.name:18800/mario8888/mario8889/69655
+
+#EXTINF:-1 tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/Portugal-Picons/portugal_logos_3x2/sic-radical-pt.png" group-title="PT - ENTRETENIMENTO", PT: SIC Radical
+http://1sn.ns1.name:18800/mario8888/mario8889/2678
+
+#EXTINF:-1 tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/Portugal-Picons/portugal_logos_3x2/sic-radical-pt.png" group-title="PT - ENTRETENIMENTO", PT: SIC Radical HD
+http://1sn.ns1.name:18800/mario8888/mario8889/217414
+
+#EXTINF:-1 tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/Portugal-Picons/portugal_logos_3x2/sic-radical-pt.png" group-title="PT - ENTRETENIMENTO", PT: SIC Radical FHD
+http://1sn.ns1.name:18800/mario8888/mario8889/70644
+
+#EXTINF:-1 tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/Portugal-Picons/portugal_logos_3x2/sic-radical-pt.png" group-title="PT - ENTRETENIMENTO", PT: SIC Radical HEVC
+http://1sn.ns1.name:18800/mario8888/mario8889/69656
+
+#EXTINF:-1 tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/Portugal-Picons/portugal_logos_3x2/vplustvi.png" group-title="PT - ENTRETENIMENTO", PT: V+ TVI
+http://1sn.ns1.name:18800/mario8888/mario8889/2858
+
+#EXTINF:-1 tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/Portugal-Picons/portugal_logos_3x2/vplustvi.png" group-title="PT - ENTRETENIMENTO", PT: V+ TVI HD
+http://1sn.ns1.name:18800/mario8888/mario8889/217420
+
+#EXTINF:-1 tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/Portugal-Picons/portugal_logos_3x2/vplustvi.png" group-title="PT - ENTRETENIMENTO", PT: V+ TVI FHD
+http://1sn.ns1.name:18800/mario8888/mario8889/70647
+
+#EXTINF:-1 tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/Portugal-Picons/portugal_logos_3x2/tvireality.default.png" group-title="PT - ENTRETENIMENTO", PT: TVI Reality
+http://1sn.ns1.name:18800/mario8888/mario8889/2857
+
+#EXTINF:-1 tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/Portugal-Picons/portugal_logos_3x2/tvireality.default.png" group-title="PT - ENTRETENIMENTO", PT: TVI Reality HD
+http://1sn.ns1.name:18800/mario8888/mario8889/217421
+
+#EXTINF:-1 tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/Portugal-Picons/portugal_logos_3x2/tvireality.default.png" group-title="PT - ENTRETENIMENTO", PT: TVI Reality FHD
+http://1sn.ns1.name:18800/mario8888/mario8889/70689
+
+#EXTINF:-1 tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/Portugal-Picons/portugal_logos_3x2/tvireality.default.png" group-title="PT - ENTRETENIMENTO", PT: TVI Reality HEVC
+http://1sn.ns1.name:18800/mario8888/mario8889/69653
+
+#EXTINF:-1 tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/Portugal-Picons/portugal_logos_3x2/tvireality.default.png" group-title="PT - ENTRETENIMENTO", PT: TVI Reality Mosaico
+http://1sn.ns1.name:18800/mario8888/mario8889/85853
+
+#EXTINF:-1 tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/Portugal-Picons/portugal_logos_3x2/tvireality.default.png" group-title="PT - ENTRETENIMENTO", PT: TVI Reality Camara Exclusiva 1
+http://1sn.ns1.name:18800/mario8888/mario8889/70683
+
+#EXTINF:-1 tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/Portugal-Picons/portugal_logos_3x2/tvireality.default.png" group-title="PT - ENTRETENIMENTO", PT: TVI Reality Camara Exclusiva 2
+http://1sn.ns1.name:18800/mario8888/mario8889/70684
+
+#EXTINF:-1 tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/Portugal-Picons/portugal_logos_3x2/tvireality.default.png" group-title="PT - ENTRETENIMENTO", PT: TVI Reality Camara Exclusiva 3
+http://1sn.ns1.name:18800/mario8888/mario8889/70685
+
+#EXTINF:-1 tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/Portugal-Picons/portugal_logos_3x2/tvireality.default.png" group-title="PT - ENTRETENIMENTO", PT: TVI Reality Camara Exclusiva 4
+http://1sn.ns1.name:18800/mario8888/mario8889/70686
+
+#EXTINF:-1 tvg-logo="https://spiintl.com/data/files/kcfinderUploadDir/images/Timeless%20Dizi%20Channel%20Logo-article.png" group-title="PT - ENTRETENIMENTO", PT: Dizi
+http://1sn.ns1.name:18800/mario8888/mario8889/85768
+
+#EXTINF:-1 tvg-logo="https://spiintl.com/data/files/kcfinderUploadDir/images/Timeless%20Dizi%20Channel%20Logo-article.png" group-title="PT - ENTRETENIMENTO", PT: DIZI CHANNEL
+http://1sn.ns1.name:18800/mario8888/mario8889/281127
+
+#EXTINF:-1 tvg-logo="https://spiintl.com/data/files/kcfinderUploadDir/images/Timeless%20Dizi%20Channel%20Logo-article.png" group-title="PT - ENTRETENIMENTO", PT: DIZI CHANNEL FHD
+http://1sn.ns1.name:18800/mario8888/mario8889/281128
+
+#EXTINF:-1 tvg-logo="https://parsefiles.back4app.com/EqXj3CWkTa9Ens1sPrzQkKMbBdnc6bYbHKR2qvRE/4156152379c245d81bb9aa287ee582f3_AMC-Break--1200x630.jpg" group-title="PT - ENTRETENIMENTO", PT: AMC Break
+http://1sn.ns1.name:18800/mario8888/mario8889/47830
+
+#EXTINF:-1 tvg-logo="https://parsefiles.back4app.com/EqXj3CWkTa9Ens1sPrzQkKMbBdnc6bYbHKR2qvRE/4156152379c245d81bb9aa287ee582f3_AMC-Break--1200x630.jpg" group-title="PT - ENTRETENIMENTO", PT: AMC Break FHD
+http://1sn.ns1.name:18800/mario8888/mario8889/70693
+
+#EXTINF:-1 tvg-logo="https://parsefiles.back4app.com/EqXj3CWkTa9Ens1sPrzQkKMbBdnc6bYbHKR2qvRE/4156152379c245d81bb9aa287ee582f3_AMC-Break--1200x630.jpg" group-title="PT - ENTRETENIMENTO", PT: AMC Break HEVC
+http://1sn.ns1.name:18800/mario8888/mario8889/69680
+
+#EXTINF:-1 tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/Portugal-Picons/portugal_logos_3x2/amccrime.png" group-title="PT - ENTRETENIMENTO", PT: AMC Crime
+http://1sn.ns1.name:18800/mario8888/mario8889/47821
+
+#EXTINF:-1 tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/Portugal-Picons/portugal_logos_3x2/amccrime.png" group-title="PT - ENTRETENIMENTO", PT: AMC Crime HD
+http://1sn.ns1.name:18800/mario8888/mario8889/217378
+
+#EXTINF:-1 tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/Portugal-Picons/portugal_logos_3x2/amccrime.png" group-title="PT - ENTRETENIMENTO", PT: AMC Crime HEVC
+http://1sn.ns1.name:18800/mario8888/mario8889/70458
+
+#EXTINF:-1 tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/Portugal-Picons/portugal_logos_3x2/fueltv-pt.png" group-title="PT - ENTRETENIMENTO", PT: Fuel Tv
+http://1sn.ns1.name:18800/mario8888/mario8889/4827
+
+#EXTINF:-1 tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/Portugal-Picons/portugal_logos_3x2/fueltv-pt.png" group-title="PT - ENTRETENIMENTO", PT: Fuel Tv FHD
+http://1sn.ns1.name:18800/mario8888/mario8889/70669
+
+#EXTINF:-1 tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/Portugal-Picons/portugal_logos_3x2/idinvestigationdiscovery.png" group-title="PT - ENTRETENIMENTO", PT: Investigation Discovery
+http://1sn.ns1.name:18800/mario8888/mario8889/56989
+
+#EXTINF:-1 tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/Portugal-Picons/portugal_logos_3x2/idinvestigationdiscovery.png" group-title="PT - ENTRETENIMENTO", PT: Investigation Discovery FHD
+http://1sn.ns1.name:18800/mario8888/mario8889/69768
+
+#EXTINF:-1 tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/Portugal-Picons/portugal_logos_3x2/canal-q-pt.png" group-title="PT - ENTRETENIMENTO", PT: Canal Q
+http://1sn.ns1.name:18800/mario8888/mario8889/5726
+
+#EXTINF:-1 tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/Portugal-Picons/portugal_logos_3x2/canal-q-pt.png" group-title="PT - ENTRETENIMENTO", PT: Canal Q HD
+http://1sn.ns1.name:18800/mario8888/mario8889/217379
+
+#EXTINF:-1 tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/Portugal-Picons/portugal_logos_3x2/dog-tv-hz-us.png" group-title="PT - ENTRETENIMENTO", PT: Dog Tv HD
+http://1sn.ns1.name:18800/mario8888/mario8889/70705
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/toros_tv_pt.png" group-title="PT - ENTRETENIMENTO", PT: OneToro Tv
+http://1sn.ns1.name:18800/mario8888/mario8889/5723
+
+#EXTINF:-1 tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/Portugal-Picons/portugal_logos_3x2/cacaepesca.png" group-title="PT - ENTRETENIMENTO", PT: Caça e Pesca
+http://1sn.ns1.name:18800/mario8888/mario8889/9597
+
+#EXTINF:-1 tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/Portugal-Picons/portugal_logos_3x2/cacaepesca.png" group-title="PT - ENTRETENIMENTO", PT: Caça e Pesca HD
+http://1sn.ns1.name:18800/mario8888/mario8889/5022
+
+#EXTINF:-1 tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/Portugal-Picons/portugal_logos_3x2/cacaepesca.png" group-title="PT - ENTRETENIMENTO", PT: Caça e Pesca FHD
+http://1sn.ns1.name:18800/mario8888/mario8889/70673
+
+#EXTINF:-1 tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/Portugal-Picons/portugal_logos_3x2/cacavision.light.png" group-title="PT - ENTRETENIMENTO", PT: Caçavision
+http://1sn.ns1.name:18800/mario8888/mario8889/4821
+
+#EXTINF:-1 tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/Portugal-Picons/portugal_logos_3x2/motorsporttv.png" group-title="PT - ENTRETENIMENTO", PT: Motorsport Tv
+http://1sn.ns1.name:18800/mario8888/mario8889/2875
+
+#EXTINF:-1 tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/Portugal-Picons/portugal_logos_3x2/motorvision-tv-rs.png" group-title="PT - ENTRETENIMENTO", PT: Motorvision
+http://1sn.ns1.name:18800/mario8888/mario8889/4795
+
+#EXTINF:-1 tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/Portugal-Picons/portugal_logos_3x2/24-kitchen-pt.png" group-title="PT - ENTRETENIMENTO", PT: 24 Kitchen
+http://1sn.ns1.name:18800/mario8888/mario8889/217375
+
+#EXTINF:-1 tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/Portugal-Picons/portugal_logos_3x2/24-kitchen-pt.png" group-title="PT - ENTRETENIMENTO", PT: 24 Kitchen HD
+http://1sn.ns1.name:18800/mario8888/mario8889/5734
+
+#EXTINF:-1 tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/Portugal-Picons/portugal_logos_3x2/24-kitchen-pt.png" group-title="PT - ENTRETENIMENTO", PT: 24 Kitchen FHD
+http://1sn.ns1.name:18800/mario8888/mario8889/69772
+
+#EXTINF:-1 tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/Portugal-Picons/portugal_logos_3x2/24-kitchen-pt.png" group-title="PT - ENTRETENIMENTO", PT: 24 Kitchen HEVC
+http://1sn.ns1.name:18800/mario8888/mario8889/69613
+
+#EXTINF:-1 tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/Portugal-Picons/portugal_logos_3x2/food-network-pl.png" group-title="PT - ENTRETENIMENTO", PT: Food Network
+http://1sn.ns1.name:18800/mario8888/mario8889/47824
+
+#EXTINF:-1 tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/Portugal-Picons/portugal_logos_3x2/food-network-pl.png" group-title="PT - ENTRETENIMENTO", PT: Food Network FHD
+http://1sn.ns1.name:18800/mario8888/mario8889/70670
+
+#EXTINF:-1 tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/Portugal-Picons/portugal_logos_3x2/casaecozinha.png" group-title="PT - ENTRETENIMENTO", PT: Casa e Cozinha
+http://1sn.ns1.name:18800/mario8888/mario8889/56993
+
+#EXTINF:-1 tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/Portugal-Picons/portugal_logos_3x2/casaecozinha.png" group-title="PT - ENTRETENIMENTO", PT: Casa e Cozinha HD
+http://1sn.ns1.name:18800/mario8888/mario8889/74488
+
+#EXTINF:-1 tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/Portugal-Picons/portugal_logos_3x2/casaecozinha.png" group-title="PT - ENTRETENIMENTO", PT: Casa e Cozinha FHD
+http://1sn.ns1.name:18800/mario8888/mario8889/69771
+
+#EXTINF:-1 tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/Portugal-Picons/portugal_logos_3x2/casaecozinha.png" group-title="PT - ENTRETENIMENTO", PT: Casa e Cozinha HEVC
+http://1sn.ns1.name:18800/mario8888/mario8889/69678
+
+#EXTINF:-1 tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/Portugal-Picons/portugal_logos_3x2/fashion-tv-es.png" group-title="PT - ENTRETENIMENTO", PT: Fashion Tv
+http://1sn.ns1.name:18800/mario8888/mario8889/5728
+
+#EXTINF:-1 tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/Portugal-Picons/portugal_logos_3x2/tlc-au.png" group-title="PT - ENTRETENIMENTO", PT: TLC
+http://1sn.ns1.name:18800/mario8888/mario8889/4826
+
+#EXTINF:-1 tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/Portugal-Picons/portugal_logos_3x2/tlc-au.png" group-title="PT - ENTRETENIMENTO", PT: TLC HD
+http://1sn.ns1.name:18800/mario8888/mario8889/217417
+
+#EXTINF:-1 tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/Portugal-Picons/portugal_logos_3x2/travel-channel-uk.png" group-title="PT - ENTRETENIMENTO", PT: Travel Channel
+http://1sn.ns1.name:18800/mario8888/mario8889/5724
+
+#EXTINF:-1 tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/Portugal-Picons/portugal_logos_3x2/travel-channel-uk.png" group-title="PT - ENTRETENIMENTO", PT: Travel Channel HD
+http://1sn.ns1.name:18800/mario8888/mario8889/217419
+
+#EXTINF:-1 tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/Portugal-Picons/portugal_logos_3x2/travel-channel-uk.png" group-title="PT - ENTRETENIMENTO", PT: Travel Channel FHD
+http://1sn.ns1.name:18800/mario8888/mario8889/69770
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Txphd_logo_2015.png" group-title="PT - ENTRETENIMENTO", PT: Travelxp FHD
+http://1sn.ns1.name:18800/mario8888/mario8889/85850
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/E%21_Logo_2012.svg/63px-E%21_Logo_2012.svg.png" group-title="PT - ENTRETENIMENTO", PT: E! Entertainment
+http://1sn.ns1.name:18800/mario8888/mario8889/4820
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/E%21_Logo_2012.svg/63px-E%21_Logo_2012.svg.png" group-title="PT - ENTRETENIMENTO", PT: E! Entertainment HD
+http://1sn.ns1.name:18800/mario8888/mario8889/217383
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/E%21_Logo_2012.svg/63px-E%21_Logo_2012.svg.png" group-title="PT - ENTRETENIMENTO", PT: E! Entertainment FHD
+http://1sn.ns1.name:18800/mario8888/mario8889/70672
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/E%21_Logo_2012.svg/63px-E%21_Logo_2012.svg.png" group-title="PT - ENTRETENIMENTO", PT: E! Entertainment HEVC
+http://1sn.ns1.name:18800/mario8888/mario8889/70446
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/canal_nos_pt.png" group-title="PT - ENTRETENIMENTO", PT: NOS Noticas
+http://1sn.ns1.name:18800/mario8888/mario8889/70144
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/canal_nos_pt.png" group-title="PT - ENTRETENIMENTO", PT: Canal NOS
+http://1sn.ns1.name:18800/mario8888/mario8889/70691
+
+#EXTINF:-1 tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/Portugal-Picons/portugal_logos_3x2/ptglobo.png" group-title="PT - ENTRETENIMENTO", PT: Globo Tv
+http://1sn.ns1.name:18800/mario8888/mario8889/5730
+
+#EXTINF:-1 tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/Portugal-Picons/portugal_logos_3x2/ptglobo.png" group-title="PT - ENTRETENIMENTO", PT: Globo HD
+http://1sn.ns1.name:18800/mario8888/mario8889/217395
+
+#EXTINF:-1 tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/Portugal-Picons/portugal_logos_3x2/ptglobo.png" group-title="PT - ENTRETENIMENTO", PT: Globo FHD
+http://1sn.ns1.name:18800/mario8888/mario8889/70649
+
+#EXTINF:-1 tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/Portugal-Picons/portugal_logos_3x2/ptglobo.png" group-title="PT - ENTRETENIMENTO", PT: Globo HEVC
+http://1sn.ns1.name:18800/mario8888/mario8889/69657
+
+#EXTINF:-1 tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/Portugal-Picons/portugal_logos_3x2/pttvrecordhd.png" group-title="PT - ENTRETENIMENTO", PT: Tv Record
+http://1sn.ns1.name:18800/mario8888/mario8889/2891
+
+#EXTINF:-1 tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/Portugal-Picons/portugal_logos_3x2/pttvrecordhd.png" group-title="PT - ENTRETENIMENTO", PT: TV Record FHD
+http://1sn.ns1.name:18800/mario8888/mario8889/70648
+
+#EXTINF:-1 tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/Portugal-Picons/portugal_logos_3x2/pttvrecordhd.png" group-title="PT - ENTRETENIMENTO", PT: Tv Record HEVC
+http://1sn.ns1.name:18800/mario8888/mario8889/69659
+
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/403733/screenshots/14738378/logo__________1____22.jpg" group-title="PT - ENTRETENIMENTO", PT: S+
+http://1sn.ns1.name:18800/mario8888/mario8889/217411
+
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/403733/screenshots/14738378/logo__________1____22.jpg" group-title="PT - ENTRETENIMENTO", PT: S+ HD
+http://1sn.ns1.name:18800/mario8888/mario8889/217410
+
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/403733/screenshots/14738378/logo__________1____22.jpg" group-title="PT - ENTRETENIMENTO", PT: S+ FHD
+http://1sn.ns1.name:18800/mario8888/mario8889/70661
+
+#EXTINF:-1 tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/Portugal-Picons/portugal_logos_3x2/toros-tv-pt.png" group-title="PT - ENTRETENIMENTO", PT: Toros HD
+http://1sn.ns1.name:18800/mario8888/mario8889/253496
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="PT - ENTRETENIMENTO", PT: SIC Novelas
+http://1sn.ns1.name:18800/mario8888/mario8889/253494
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="PT - ENTRETENIMENTO", PT: Crime Investigation
+http://1sn.ns1.name:18800/mario8888/mario8889/253490
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="PT - ENTRETENIMENTO", PT: Blaze TV
+http://1sn.ns1.name:18800/mario8888/mario8889/253489
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="PT - ENTRETENIMENTO", PT: Horse TV
+http://1sn.ns1.name:18800/mario8888/mario8889/301961
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="PT - INFANTIL", BR: BOOMERANG HD
+http://1sn.ns1.name:18800/mario8888/mario8889/61252
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/baby_tv_eu.png" group-title="PT - INFANTIL", PT: Baby TV
+http://1sn.ns1.name:18800/mario8888/mario8889/2884
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/biggs_pt.png" group-title="PT - INFANTIL", PT: Vin Tv
+http://1sn.ns1.name:18800/mario8888/mario8889/2885
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/canal-panda-pt.png" group-title="PT - INFANTIL", PT: Canal Panda
+http://1sn.ns1.name:18800/mario8888/mario8889/2888
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/canal-panda-pt.png" group-title="PT - INFANTIL", PT: Canal Panda HD
+http://1sn.ns1.name:18800/mario8888/mario8889/217406
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/pp/panda-kids-pt.png" group-title="PT - INFANTIL", PT: Panda Kids
+http://1sn.ns1.name:18800/mario8888/mario8889/85848
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/pp/panda-kids-pt.png" group-title="PT - INFANTIL", PT: Panda Kids HD
+http://1sn.ns1.name:18800/mario8888/mario8889/217407
+
+#EXTINF:-1 tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/Scandinav-Ilhan/55/Cartoon%20Network.png" group-title="PT - INFANTIL", PT: Cartoon Network
+http://1sn.ns1.name:18800/mario8888/mario8889/4800
+
+#EXTINF:-1 tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/Scandinav-Ilhan/55/Cartoon%20Network.png" group-title="PT - INFANTIL", PT: Cartoon Network HD
+http://1sn.ns1.name:18800/mario8888/mario8889/217380
+
+#EXTINF:-1 tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/Scandinav-Ilhan/55/Disney%20Channel.png" group-title="PT - INFANTIL", PT: Disney Channel
+http://1sn.ns1.name:18800/mario8888/mario8889/4798
+
+#EXTINF:-1 tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/Scandinav-Ilhan/55/Disney%20Channel.png" group-title="PT - INFANTIL", PT: Disney Channel HD
+http://1sn.ns1.name:18800/mario8888/mario8889/85891
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/disney_junior_us.png" group-title="PT - INFANTIL", PT: Disney Junior
+http://1sn.ns1.name:18800/mario8888/mario8889/2883
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/disney_junior_us.png" group-title="PT - INFANTIL", PT: Disney Junior HD
+http://1sn.ns1.name:18800/mario8888/mario8889/85892
+
+#EXTINF:-1 tvg-logo="https://www.highreshdwallpapers.com/wp-content/uploads/2017/05/The-Pixar-Logo-Wallpaper.jpg" group-title="PT - INFANTIL", PT: Disney Pixar HD
+http://1sn.ns1.name:18800/mario8888/mario8889/85837
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/Cartoonito.png" group-title="PT - INFANTIL", PT: Cartoonito
+http://1sn.ns1.name:18800/mario8888/mario8889/4802
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/boomerang_th.png" group-title="PT - INFANTIL", PT: Cartoonito HD
+http://1sn.ns1.name:18800/mario8888/mario8889/70149
+
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/lib/exe/fetch.php?w=63&h=47&tok=bcd9c8&media=https%3A%2F%2Fwww.mundoplus.tv%2Fwiki%2F_media%2Flogos%2Flollykids.png" group-title="PT - INFANTIL", PT: Lolly Kids
+http://1sn.ns1.name:18800/mario8888/mario8889/70495
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/17/Nickelodeon_logo.png" group-title="PT - INFANTIL", PT: Nickelodeon
+http://1sn.ns1.name:18800/mario8888/mario8889/2886
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/24/Nick_Jr._HD.png" group-title="PT - INFANTIL", PT: Nick Jr.
+http://1sn.ns1.name:18800/mario8888/mario8889/47819
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sic_pt_k.png" group-title="PT - INFANTIL", PT: SIC K
+http://1sn.ns1.name:18800/mario8888/mario8889/5712
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sic_pt_k.png" group-title="PT - INFANTIL", PT: SIC K FHD
+http://1sn.ns1.name:18800/mario8888/mario8889/70690
+
+#EXTINF:-1 tvg-logo="https://www.highreshdwallpapers.com/wp-content/uploads/2017/05/The-Pixar-Logo-Wallpaper.jpg" group-title="PT - INFANTIL", PT: Disney Pixar HD (New)
+http://1sn.ns1.name:18800/mario8888/mario8889/217136
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="PT - INFANTIL", PT: Nickelodeon Junior
+http://1sn.ns1.name:18800/mario8888/mario8889/253492
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/afro-music-channel-pt.png" group-title="PT - MÚSICA", PT: Afro Music
+http://1sn.ns1.name:18800/mario8888/mario8889/4836
+
+#EXTINF:-1 tvg-logo="https://www.almalusa.pt/wp-content/uploads/2018/01/cropped-logo_almalusa_quad4-1.png" group-title="PT - MÚSICA", PT: Alma Lusa FHD
+http://1sn.ns1.name:18800/mario8888/mario8889/70695
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/57/Stingray_Concerts.png" group-title="PT - MÚSICA", PT: IConcerts FHD
+http://1sn.ns1.name:18800/mario8888/mario8889/70668
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mcm-pop-fr.png" group-title="PT - MÚSICA", PT: MCM POP
+http://1sn.ns1.name:18800/mario8888/mario8889/4837
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mcm-top-fr.png" group-title="PT - MÚSICA", PT: MCM TOP HD
+http://1sn.ns1.name:18800/mario8888/mario8889/85842
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mezzo-fr.png" group-title="PT - MÚSICA", PT: MEZZO
+http://1sn.ns1.name:18800/mario8888/mario8889/48667
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/MTV-2021.svg/225px-MTV-2021.svg.png" group-title="PT - MÚSICA", PT: MTV Portugal
+http://1sn.ns1.name:18800/mario8888/mario8889/21970
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/MTV-2021.svg/225px-MTV-2021.svg.png" group-title="PT - MÚSICA", PT: MTV Portugal HD
+http://1sn.ns1.name:18800/mario8888/mario8889/217400
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5b/MTV_Portugal_logo.png" group-title="PT - MÚSICA", PT: MTV Portugal FHD
+http://1sn.ns1.name:18800/mario8888/mario8889/70674
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/trace_fr_urban.png" group-title="PT - MÚSICA", PT: Trace Urban
+http://1sn.ns1.name:18800/mario8888/mario8889/47831
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/trace_fr_urban.png" group-title="PT - MÚSICA", PT: Trace Urban HD
+http://1sn.ns1.name:18800/mario8888/mario8889/217418
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/trace_fr_africa.png" group-title="PT - MÚSICA", PT: Trace Africa
+http://1sn.ns1.name:18800/mario8888/mario8889/70152
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/trace_fr_toca.png" group-title="PT - MÚSICA", PT: Trace Toca
+http://1sn.ns1.name:18800/mario8888/mario8889/48668
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/trace-latina-fr.png" group-title="PT - MÚSICA", PT: Trace Latina FHD
+http://1sn.ns1.name:18800/mario8888/mario8889/70154
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="PT - DOCUMENTÁRIOS", BR: Animal Planet FHD
+http://1sn.ns1.name:18800/mario8888/mario8889/61244
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="PT - DOCUMENTÁRIOS", BR: Animal Planet HD
+http://1sn.ns1.name:18800/mario8888/mario8889/61187
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="PT - DOCUMENTÁRIOS", BR: Arte 1 HD
+http://1sn.ns1.name:18800/mario8888/mario8889/61246
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/rtp-memoria-pt.png" group-title="PT - DOCUMENTÁRIOS", PT: RTP Memoria
+http://1sn.ns1.name:18800/mario8888/mario8889/2855
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/historia_pt.png" group-title="PT - DOCUMENTÁRIOS", PT: Historia
+http://1sn.ns1.name:18800/mario8888/mario8889/9598
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/historia_pt.png" group-title="PT - DOCUMENTÁRIOS", PT: Historia FHD
+http://1sn.ns1.name:18800/mario8888/mario8889/70694
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/oo/odisseia_pt.png" group-title="PT - DOCUMENTÁRIOS", PT: Odisseia
+http://1sn.ns1.name:18800/mario8888/mario8889/2892
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/oo/odisseia_pt.png" group-title="PT - DOCUMENTÁRIOS", PT: Odisseia HD
+http://1sn.ns1.name:18800/mario8888/mario8889/217405
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/oo/odisseia_pt.png" group-title="PT - DOCUMENTÁRIOS", PT: Odisseia FHD
+http://1sn.ns1.name:18800/mario8888/mario8889/70667
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/oo/odisseia_pt.png" group-title="PT - DOCUMENTÁRIOS", PT: Odisseia HEVC
+http://1sn.ns1.name:18800/mario8888/mario8889/69612
+
+#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-mOwswe_vzuU/TljSaTczI3I/AAAAAAAAAgw/sOg2AHnFDCk/s1600/Nat+Geo+Wild+HD.png" group-title="PT - DOCUMENTÁRIOS", PT: Nat Geo Wild
+http://1sn.ns1.name:18800/mario8888/mario8889/70150
+
+#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-mOwswe_vzuU/TljSaTczI3I/AAAAAAAAAgw/sOg2AHnFDCk/s1600/Nat+Geo+Wild+HD.png" group-title="PT - DOCUMENTÁRIOS", PT: National Geographic Wild HD
+http://1sn.ns1.name:18800/mario8888/mario8889/4831
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/300px-National_Geographic_Wild_logo.svg.png" group-title="PT - DOCUMENTÁRIOS", PT: Nat Geo Wild FHD
+http://1sn.ns1.name:18800/mario8888/mario8889/70666
+
+#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-mOwswe_vzuU/TljSaTczI3I/AAAAAAAAAgw/sOg2AHnFDCk/s1600/Nat+Geo+Wild+HD.png" group-title="PT - DOCUMENTÁRIOS", PT: Nat Geo Wild HEVC
+http://1sn.ns1.name:18800/mario8888/mario8889/69669
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/330px-Natgeologo.svg.png" group-title="PT - DOCUMENTÁRIOS", PT: National Geographic
+http://1sn.ns1.name:18800/mario8888/mario8889/70681
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/330px-Natgeologo.svg.png" group-title="PT - DOCUMENTÁRIOS", PT: National Geographic HD
+http://1sn.ns1.name:18800/mario8888/mario8889/9599
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/330px-Natgeologo.svg.png" group-title="PT - DOCUMENTÁRIOS", PT: National Geographic FHD
+http://1sn.ns1.name:18800/mario8888/mario8889/69769
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/330px-Natgeologo.svg.png" group-title="PT - DOCUMENTÁRIOS", PT: National Geographic HEVC
+http://1sn.ns1.name:18800/mario8888/mario8889/69614
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/discovery-channel-east-us.png" group-title="PT - DOCUMENTÁRIOS", PT: Discovery Channel
+http://1sn.ns1.name:18800/mario8888/mario8889/4834
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/discovery-channel-east-us.png" group-title="PT - DOCUMENTÁRIOS", PT: Discovery Channel HD
+http://1sn.ns1.name:18800/mario8888/mario8889/48663
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3c/Discovery_channe.png" group-title="PT - DOCUMENTÁRIOS", PT: Discovery Channel FHD
+http://1sn.ns1.name:18800/mario8888/mario8889/69767
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/discovery-channel-east-us.png" group-title="PT - DOCUMENTÁRIOS", PT: Discovery Channel HEVC
+http://1sn.ns1.name:18800/mario8888/mario8889/69615
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="PT - DOCUMENTÁRIOS", PT: DOCUBOX HD
+http://1sn.ns1.name:18800/mario8888/mario8889/217385
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="PT - DOCUMENTÁRIOS", PT: DOCUBOX
+http://1sn.ns1.name:18800/mario8888/mario8889/217384
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/rtp_internacional.png" group-title="PT - INTERNACIONAIS", PT: RTP Internacional
+http://1sn.ns1.name:18800/mario8888/mario8889/4765
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tvc-news-ng.png" group-title="PT - INTERNACIONAIS", PT: TVC News
+http://1sn.ns1.name:18800/mario8888/mario8889/70147
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_TVE-24h.svg/225px-Logo_TVE-24h.svg.png" group-title="PT - INTERNACIONAIS", PT: TVE 24H
+http://1sn.ns1.name:18800/mario8888/mario8889/21985
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tve_internacional_eu.png" group-title="PT - INTERNACIONAIS", PT: TVE International
+http://1sn.ns1.name:18800/mario8888/mario8889/48666
+
+#EXTINF:-1 tvg-logo="https://www.tvzimbo.ao/temas/tvzimbo/assets/img/logo-footer.png" group-title="PT - INTERNACIONAIS", PT: Tv Zimbo
+http://1sn.ns1.name:18800/mario8888/mario8889/48659
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/zz/zap_viva_ao.png" group-title="PT - INTERNACIONAIS", PT: ZAP VIVA FHD
+http://1sn.ns1.name:18800/mario8888/mario8889/69773
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/zz/zap_viva_ao.png" group-title="PT - INTERNACIONAIS", PT: Zap Viva
+http://1sn.ns1.name:18800/mario8888/mario8889/47832
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/zz/zap_viva_ao.png" group-title="PT - INTERNACIONAIS", PT: ZAP VIVA HEVC
+http://1sn.ns1.name:18800/mario8888/mario8889/70447
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/gg/galicia_tv_eu.png" group-title="PT - INTERNACIONAIS", PT: Galicia
+http://1sn.ns1.name:18800/mario8888/mario8889/5030
+
+#EXTINF:-1 tvg-logo="https://photos.live-tv-channels.org/tv-logo/cv-tcv-9220-300x225.jpg" group-title="PT - INTERNACIONAIS", PT: TCV Internacional HD
+http://1sn.ns1.name:18800/mario8888/mario8889/48660
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Televis%C3%A3o_P%C3%BAblica_de_Angola_2022.svg/1200px-Televis%C3%A3o_P%C3%BAblica_de_Angola_2022.svg.png" group-title="PT - INTERNACIONAIS", PT: TPA
+http://1sn.ns1.name:18800/mario8888/mario8889/48658
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bbc_entertainment_uk.png" group-title="PT - INTERNACIONAIS", PT: BBC Entertainement
+http://1sn.ns1.name:18800/mario8888/mario8889/70156
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/gg/globo-now-br.png" group-title="PT - INTERNACIONAIS", PT: Globo News FHD
+http://1sn.ns1.name:18800/mario8888/mario8889/70697
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tv-cancao-nova-portugal-br-pt.png" group-title="PT - INTERNACIONAIS", PT: Canção Nova
+http://1sn.ns1.name:18800/mario8888/mario8889/4774
+
+#EXTINF:-1 tvg-logo="https://www.fatima.pt/img/upload/maio/medium/2018-05-12_Monograma_1.jpg" group-title="PT - INTERNACIONAIS", PT: Santuário de Fátima
+http://1sn.ns1.name:18800/mario8888/mario8889/5731
+
+#EXTINF:-1 tvg-logo="https://www.fatima.pt/img/upload/maio/medium/2018-05-12_Monograma_1.jpg" group-title="PT - INTERNACIONAIS", PT: Santuário de Fátima FHD
+http://1sn.ns1.name:18800/mario8888/mario8889/70657
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/kk/kuriakos_tv_pt.png" group-title="PT - INTERNACIONAIS", PT: Kuriakos Tv
+http://1sn.ns1.name:18800/mario8888/mario8889/48662
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/kk/kuriakos_tv_pt.png" group-title="PT - INTERNACIONAIS", PT: Kuriakos Tv FHD
+http://1sn.ns1.name:18800/mario8888/mario8889/69766
+
+#EXTINF:-1 tvg-logo="https://www.pngitem.com/pimgs/m/65-657592_ginx-esports-tv-logo-hd-png-download.png" group-title="PT - INTERNACIONAIS", PT: Ginx Esport
+http://1sn.ns1.name:18800/mario8888/mario8889/70708
+
+#EXTINF:-1 tvg-logo="https://spiintl.com/data/files/kcfinderUploadDir/images/gametoon_HD_MGC.png" group-title="PT - INTERNACIONAIS", PT: Gametoon
+http://1sn.ns1.name:18800/mario8888/mario8889/85763
+
+#EXTINF:-1 tvg-logo="https://cdn.bndlyr.com/nhjtx0kggg/_assets/nwxbgehephns507vsruet.png" group-title="PT - INTERNACIONAIS", PT: Canal 180 HD
+http://1sn.ns1.name:18800/mario8888/mario8889/85845
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="PT - INTERNACIONAIS", PT: TCV Cabo Verde
+http://1sn.ns1.name:18800/mario8888/mario8889/253497
+
